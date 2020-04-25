@@ -14,9 +14,11 @@ All xmls apart from text_ui_items.xml can be found in the game files:
 
 text_ui_items.xml can be found among localization files.
 
+Script results are also uploaded to the repo in the Results directory.
+
 # Visibility and Conspiciousness
 
-The values outputed by the script are the ones shown in the item decription ingame. 
+The values outputed by the script are the ones shown in the item description ingame. 
 
 They strongly correlete with the actual active values, but it seems that the game lies to you to not overwhelm you with the visibility mechanic.
 It seems like the most of the armor is divided into sections, and only the outermost (and possibly second) layer covering other armor counts towards visibility and conspiciousness. Pretty cool mechanic.

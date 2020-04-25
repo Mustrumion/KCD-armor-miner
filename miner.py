@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as et
 import pandas as pd
+import os
 
 def get_defense(path: str = "armor.xml") -> pd.DataFrame:
     cols = ['item_id', 'armor_type_id', 'noise', 'stab_def', 'slash_def', 'smash_def', 'max_status']
@@ -90,7 +91,10 @@ df['name'] = df['name'].str.strip()
 
 groups = [pd.DataFrame(y) for x, y in df.groupby('category', as_index=False)]
 
+if not os.path.exists('Results'):
+    os.mkdir('Results')
+
 for group in groups:
-    group.to_csv(f'{group["category"].iloc[0]}.csv')
-df.to_csv('All.csv')
+    group.to_csv(f'Results/{group["category"].iloc[0]}.csv')
+df.to_csv('Results/All.csv')
 print(df)
