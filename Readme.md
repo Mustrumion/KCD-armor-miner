@@ -10,10 +10,9 @@ The mod in question is 'A Sorted Inventory' from Nexus Mods. Highly recommended 
 
 All xmls apart from text_ui_items.xml can be found in the game files:
 
-<game dir>\data\Tables.pak\Libs\Tables\item
+<game dir>\data\Tables.pak\Libs\Tables\item (Tables.pak needs to be opened with an archive manager, I recommand 7zip)
 
 text_ui_items.xml can be found among localization files.
-(Tables.pak needs to be opened with an archive manager, I recommand 7zip)
 
 # Visibility and Conspiciousness
 
