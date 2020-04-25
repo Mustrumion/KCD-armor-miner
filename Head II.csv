@@ -1,0 +1,11 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_ca_collar_001,4ef2fdb9-ad9d-012b-f526-92f78f8f6f91,4,94.28571,3.5999999999999996,4.5,2.7,34,8,55.00000000000001,61.0,1.5,Mail Collar,Head II
+ui_nm_ca_hood_002,45ff98b0-d684-5f01-5a6f-679d2e8b5696,4,81.42857,11.200000000000001,14.0,8.4,56,5,55.00000000000001,57.00000000000001,4.0,Mail Coif,Head II
+ui_nm_ca_hood_002,46eb884b-a0ed-7da8-4d4f-0a18284dc9bc,4,85.39999999999999,3.5999999999999996,4.5,2.7,34,8,55.00000000000001,61.0,1.5,Mail Coif,Head II
+ui_nm_ca_hood_003,4fbc8b16-6e58-af4e-8b95-59963da5ef96,4,100.0,12.0,15.0,9.0,60,10,64.0,68.0,4.0,Mail Coif (Noble),Head II
+ui_nm_ca_hood_003_bonus,42414d23-c8dc-7b1a-31e6-00644075feaa,4,100.0,9.6,12.0,7.199999999999999,47,12,75.5,70.0,5.0,Mail Coif (Warhorse),Head II
+ui_nm_ca_hood_004,4eee90c8-2406-357f-6d9f-8e8e4274b387,4,98.57143,9.6,12.0,7.199999999999999,47,5,55.00000000000001,59.0,5.0,Mail Coif,Head II
+ui_nm_ca_hood_005,45edc80c-1b34-a0f5-001c-a08a1fe632a6,4,100.0,11.200000000000001,14.0,8.4,56,12,70.5,72.0,4.0,Mail Coif (Decorated),Head II
+ui_nm_ca_hood_006,446d9158-a7e3-910b-95a8-12eee9e04997,4,98.57143,10.4,13.0,7.800000000000001,51,5,55.00000000000001,59.0,5.0,Mail Coif (Elongated),Head II
+ui_nm_ca_hood_008,4f953795-b11c-9a8a-c373-97c249e853ad,4,94.28571,4.4,5.5,3.3000000000000003,43,8,55.00000000000001,59.0,1.0,Mail Collar (Noble),Head II
+ui_nm_ca_hood_009,4d171f84-c6d1-95ac-0dfe-9c3860bfa3a5,4,94.28571,4.0,5.0,3.0,39,9,55.00000000000001,61.0,1.0,Mail Collar (Reinforced),Head II

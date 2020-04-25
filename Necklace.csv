@@ -1,0 +1,5 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_nahrdelnik_2,0a79aed1-1d5a-4104-ae2e-6de2648ea9b4,6,0.0,0.0,0.0,0.0,45,14,57.49999999999999,50.0,0.0,Silver,Necklace
+ui_nm_nahrdelnik_3,7bf71bcf-275a-4a01-ad3b-adb059b0bc80,6,0.0,0.0,0.0,0.0,50,16,60.0,50.0,0.0,Gold,Necklace
+ui_nm_nahrdelnik_4,e1bf8852-92b3-4373-a1c7-c4726ada6e27,6,0.0,0.0,0.0,0.0,55,18,60.0,50.0,0.0,Heraldic,Necklace
+ui_nm_nahrdelnik_5,0bf732db-ca19-4f0b-a56f-c83a79806d8f,6,0.0,0.0,0.0,0.0,60,20,62.5,50.0,0.0,Gold,Necklace

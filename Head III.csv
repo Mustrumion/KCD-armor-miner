@@ -1,0 +1,62 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_chaperon_001_black,48f4d62f-f2d7-c064-be4b-450aeea1f39a,7,14.285709999999998,1.0,1.0,1.0,30,16,30.5,30.0,2.0,Chaperon (Black),Head III
+ui_nm_chaperon_001_blue,4e760438-c3b5-7acd-6329-55e19c4e8896,7,44.28571,1.0,1.0,1.0,30,16,63.5,65.0,2.0,Chaperon (Blue),Head III
+ui_nm_chaperon_001_red,4498482d-a404-5646-16d0-f49eaac6d58e,7,44.28571,1.0,1.0,1.0,30,16,63.5,65.0,2.0,Chaperon (Red),Head III
+ui_nm_chaperon_001_yelow,42566810-49be-e92f-5181-705bdd2eb1ae,7,48.57143,1.0,1.0,1.0,30,16,68.0,78.0,2.0,Chaperon (Yellow),Head III
+ui_nm_chaperon_pavelkolin,09d799a2-2253-4a46-89cc-142affcb1ede,7,44.28571,1.0,1.0,1.0,30,18,63.5,65.0,2.0,Chaperon (Pavel),Head III
+ui_nm_dvoj_klobouk,447acc02-8ee6-ff70-1cb3-ccafd3ba01b3,5,72.57143,7.3,7.3,2.92,47,4,55.00000000000001,69.0,5.0,Kettle Hat (Two-Piece),Head III
+ui_nm_felt_hat_brown,c80e67a7-8dbd-4662-ae63-26a92b6ae28b,7,19.3,1.0,2.0,2.0,45,0,50.0,0.0,1.0,Felt Hat (Brown),Head III
+ui_nm_hagen_helmet,42d40a4b-b727-c518-26e1-541208b7e197,5,100.0,25.0,25.0,10.0,78,15,66.5,78.0,6.0,Bascinet (Zoul),Head III
+ui_nm_hagen_helmet,4f27f774-be02-ea89-51d6-ad7ac35587a2,5,100.0,25.0,25.0,10.0,78,15,66.5,78.0,6.0,Bascinet (Zoul),Head III
+ui_nm_hat_001,00000000-0000-0000-0000-000000000025,7,27.142860000000002,1.0,1.0,1.0,40,3,44.5,49.0,1.0,Felt Hat (Brown),Head III
+ui_nm_hat_001_gray,48641946-e22a-7925-8120-9f8825df12ac,7,27.142860000000002,1.0,1.0,1.0,40,3,46.0,55.00000000000001,1.0,Felt Hat (Grey),Head III
+ui_nm_hat_001_green,43dd7f89-93d5-801a-7dc6-824c367284b4,7,27.142860000000002,1.0,1.0,1.0,40,3,44.5,49.0,1.0,Felt Hat (Green),Head III
+ui_nm_hat_001_olive,415cb852-5910-50cf-9802-4375257dd3b5,7,27.142860000000002,1.0,1.0,1.0,40,3,44.5,49.0,1.0,Felt Hat (Olive),Head III
+ui_nm_hat_001_red,43dc25b5-3962-a772-7eeb-dd7820574395,7,27.142860000000002,1.0,1.0,1.0,40,6,47.5,55.00000000000001,1.0,Felt Hat (Red),Head III
+ui_nm_hat_001_yellow,450ee588-bc3d-d0ed-69a8-eea895d9998c,7,27.142860000000002,1.0,1.0,1.0,40,6,47.5,59.0,1.0,Felt Hat (Yellow),Head III
+ui_nm_hat_002,4daf7e11-bd8a-5e7a-181d-37c790ba1c95,7,48.57143,1.0,1.0,1.0,30,1,59.5,70.0,1.0,Hat (Straw),Head III
+ui_nm_hat_003,4ef61ee8-aaff-7b19-9b2f-3310e7ee72be,7,27.142860000000002,1.0,1.0,1.0,40,1,43.0,55.00000000000001,1.0,Cap (Cuman),Head III
+ui_nm_hat_005,4a4d56b4-8c9c-7840-6398-dbfe8132d78b,1,48.57143,1.0,1.0,1.0,30,2,60.5,68.0,1.0,Cap (Miller),Head III
+ui_nm_hat_006,4bf98be0-1893-bb82-3ddb-5dd35b0f84b1,1,14.285709999999998,1.0,1.0,1.0,40,7,37.0,44.0,1.0,Felt Hat (Orange),Head III
+ui_nm_hat_006_colorVar_A,4527de55-2a1f-6089-a182-2aa2e031fe99,1,0.0,1.0,1.0,1.0,40,6,23.5,26.0,1.0,Felt Hat (Brown),Head III
+ui_nm_hat_006_colorVar_A,4c812542-2acf-0481-ec8a-adb77c057495,1,0.0,1.0,1.0,1.0,40,4,23.5,26.0,1.0,Felt Hat (Brown),Head III
+ui_nm_hat_007,4a5ec182-a249-b5d8-9975-b8fa57d5ae9f,1,35.71429,1.0,1.0,1.0,40,14,59.5,61.0,1.0,Pointy Hat (Yellow),Head III
+ui_nm_hat_007_green,4fb18a35-7abd-d93d-ac7e-c5a1d6bf809f,1,35.71429,1.0,1.0,1.0,40,14,59.5,61.0,1.0,Pointy Hat (Green),Head III
+ui_nm_hat_007_red,491a1973-e6d2-e04d-f718-8f24db2ec4bb,1,44.28571,1.0,1.0,1.0,40,14,70.0,71.0,1.0,Pointy Hat (Red),Head III
+ui_nm_hat_008,48c1161d-7bdf-52ff-75a5-3c210060ae8a,1,48.57143,1.0,1.0,1.0,40,14,77.0,78.0,1.0,Cap (Hunting),Head III
+ui_nm_hat_009,452c1f85-3219-c7fc-8d0c-de1d0b4d9885,1,52.85714,1.0,1.0,1.0,30,17,79.5,75.0,1.0,Hat (Fashionable),Head III
+ui_nm_hat_010,40d19389-b8e6-8f54-cf74-f3715b0cea8c,1,48.57143,1.0,1.0,1.0,40,12,67.5,72.0,1.0,Merchant's Hat (Red),Head III
+ui_nm_hat_010_colorVar_B,41e70a43-df7c-9acc-afe6-42dc972ee891,1,48.57143,1.0,1.0,1.0,40,12,67.5,72.0,1.0,Merchant's Hat (Blue),Head III
+ui_nm_hat_010_colorVar_C,49160240-18dd-dc84-66fe-2ed005eba1b9,1,48.57143,1.0,1.0,1.0,40,12,67.5,72.0,1.0,Merchant's Hat (Green),Head III
+ui_nm_hat_011,42663739-349d-8b14-a737-8cd056f7559e,1,57.14286,1.0,1.0,1.0,30,20,89.0,80.0,1.0,Hat (Nobleman),Head III
+ui_nm_iron_hat,4a2e6701-7c43-b97a-0823-6e22ea1d8fb3,5,72.85714,10.700000000000001,10.700000000000001,4.28,53,1,52.0,56.00000000000001,3.0,Kettle Hat,Head III
+ui_nm_italsky_slap,481b929a-0e8e-05da-54c5-2939bd72e594,5,100.0,20.7,20.7,8.28,73,10,64.0,78.0,9.0,Bascinet (Italian),Head III
+ui_nm_kapalin,4a16b1e8-f30f-eea1-4329-aa3030891bbb,5,79.14286,9.6,9.6,3.84,51,3,49.0,63.0,4.0,Kettle Hat,Head III
+ui_nm_kapalin_zdob,41c9dee4-7f56-917c-cf8d-3482bbb3ad9a,5,79.14286,9.6,9.6,3.84,51,5,55.50000000000001,65.0,4.0,Kettle Hat (Decorated),Head III
+ui_nm_klen_slap,421f173c-99b2-f030-cedd-0ba2a25270ac,5,100.0,22.9,22.9,9.16,78,15,66.5,78.0,6.0,Bascinet (Arching),Head III
+ui_nm_kum_prilba,4582224b-55b8-82f8-4230-371ca1093db3,5,91.42857,6.2,6.2,2.48,44,4,60.5,72.0,3.0,Cuman,Head III
+ui_nm_kuman_lehka_pril,43c6062f-7a46-aa6a-ce45-9f8b90adb7a9,5,85.42857000000001,8.4,8.4,3.3600000000000003,49,3,69.0,70.0,5.0,Cuman (Light),Head III
+ui_nm_kuman_sisak,4aa23d07-ef96-e285-2cec-c7eb93ec4999,5,87.14285000000001,12.9,12.9,5.16,58,5,55.00000000000001,61.0,4.0,Cuman (Sisak),Head III
+ui_nm_kuman_velitelska,44e4e7ba-05b1-fd0f-5aac-2e6f8d8cf682,5,97.71429,18.400000000000002,18.400000000000002,7.359999999999999,69,7,79.0,68.0,4.0,Cuman (Captain),Head III
+ui_nm_kuman_zdob_sis,4e8bfdae-a38a-fae5-1177-b513733f1c90,5,100.0,11.799999999999999,11.799999999999999,4.72,56,5,77.0,72.0,4.0,Cuman (Decorated Sisak),Head III
+ui_nm_lebka,441979f2-838e-9f91-36ef-64fd17735492,5,68.57143,5.1,5.1,2.04,42,5,44.5,59.0,2.0,Skullcap,Head III
+ui_nm_lebka_sup,44501763-1d31-6b8b-fb85-a57b3fce9596,5,68.57143,8.4,8.4,3.3600000000000003,49,7,49.5,59.0,2.0,Skullcap (Scaly),Head III
+ui_nm_nem_slap,4135abae-bcce-b9f7-7fff-9139b57aebbe,5,100.0,16.200000000000003,16.200000000000003,6.48,64,10,69.0,78.0,7.0,Bascinet (German),Head III
+ui_nm_nem_slap,416efa2d-68db-6dfb-3d5d-98489f638bad,5,100.0,16.200000000000003,16.200000000000003,6.48,64,13,74.0,78.0,7.0,Bascinet (German),Head III
+ui_nm_nem_slap,4cd854dd-7c7c-3050-27e4-8b67b1d1338c,5,100.0,16.200000000000003,16.200000000000003,6.48,64,10,69.0,78.0,7.0,Bascinet (German),Head III
+ui_nm_nem_zdob_sla,498ca985-c074-886b-af88-aec5b12dc7ad,5,100.0,16.200000000000003,16.200000000000003,6.48,64,15,78.0,80.0,7.0,Bascinet (Decorated German),Head III
+ui_nm_pa_helmet_001,4ad02fe1-d15c-db1f-1981-59ac21854e9c,5,89.71428,4.0,4.0,1.6,40,3,57.99999999999999,72.0,4.0,Bascinet (Old),Head III
+ui_nm_pa_helmet_002_talmberk,0082de35-b635-4b85-a9ec-95024713f3ab,5,100.0,20.0,20.0,18.0,45,4,100.0,100.0,2.4,Kettle Hat (Talmberg),Head III
+ui_nm_pa_helmet_023_bonus,481cfd5b-b646-1c6b-ff58-af749941cf9e,5,100.0,24.0,24.0,9.6,80,18,84.00000000000001,78.0,6.0,Bascinet (Warhorse),Head III
+ui_nm_psi_cumak,4a0b54a0-f893-122d-5171-74ac68e933ad,5,100.0,21.8,21.8,8.72,76,5,64.0,78.0,4.0,Bascinet (Hounskull),Head III
+ui_nm_slap_klap,48146c21-3bc0-fc8c-24b3-cd0f0427dc8c,5,95.14286,17.3,17.3,6.92,67,5,57.99999999999999,72.0,4.0,Bascinet (Klappvisor),Head III
+ui_nm_slap_kryty,44dc0755-74c4-582d-c92c-4a54990da4b9,5,98.0,11.799999999999999,11.799999999999999,4.72,56,10,71.5,78.0,7.0,Bascinet (Covered),Head III
+ui_nm_slap_nanos,436b6b1d-1471-da5f-ad03-f64bafbd8bb6,5,98.0,14.0,14.0,5.6000000000000005,60,8,64.0,78.0,6.0,Bascinet (Bretache),Head III
+ui_nm_slap_nanos,45cacc1b-dc58-a1c0-9873-d954e7cf3ebc,5,98.0,14.0,14.0,5.6000000000000005,60,8,64.0,78.0,6.0,Bascinet (Bretache),Head III
+ui_nm_slap_obyc,4af19514-66e8-1a2b-67d5-6528225681b4,5,69.42857000000001,6.2,6.2,2.48,44,4,52.0,66.0,3.0,Bascinet,Head III
+ui_nm_slap_otevreny,4d60338a-8a13-40f8-9002-fcbc79fc36b1,5,98.0,12.9,12.9,5.16,58,8,64.0,78.0,6.0,Bascinet (Open),Head III
+ui_nm_test_cap,33069aba-2dcf-42c4-97ea-f9c8a6f7e06e,7,0.0,2.0,2.0,3.0,45,4,0.0,0.0,2.5,Cap (Servant),Head III
+ui_nm_turnaj_helma,42d47b43-637d-58da-5fed-2f71259cd093,5,100.0,22.3,22.3,8.92,77,19,89.5,82.0,4.0,Bascinet (Leipa),Head III
+ui_nm_velky_slap,413a23a3-3d34-de11-abeb-2dfc9af846a9,5,88.57142999999999,19.6,19.6,7.84,71,10,64.0,78.0,5.0,Bascinet (Grand),Head III
+ui_nm_velky_slap,457922f9-5c5b-8caa-5df0-7449097cff90,5,88.57142999999999,19.6,19.6,7.84,71,10,64.0,78.0,5.0,Bascinet (Grand),Head III
+ui_nm_zvon_klo,40bafc6f-ea0f-d9d2-57f7-0da666d60083,5,68.28572000000001,15.1,15.1,6.04,62,4,52.0,66.0,4.0,Kettle Hat (Bell-shaped),Head III

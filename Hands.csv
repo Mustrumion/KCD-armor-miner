@@ -1,0 +1,16 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_auspurk_ruka,424d9151-9ccb-989f-7bd8-3c690a9e4393,5,93.42857,11.0,11.0,4.4,34,8,74.0,72.0,3.0,Gauntlets (Augsburg),Hands
+ui_nm_burgund_ruka,403f6db2-1285-31da-81c6-db426db9d6a5,5,83.57143,11.5,11.5,4.6000000000000005,37,15,85.0,84.00000000000001,3.0,Gauntlets (Aachen),Hands
+ui_nm_gauntlets_bonus,42c04555-15cb-ac3a-aef4-e377a125aca5,5,84.57143,10.8,10.8,4.32,34,20,100.0,100.0,3.0,Gauntlets (Warhorse),Hands
+ui_nm_kozene_ruka,4765b22e-ac12-f985-ebfe-19f9c7e37481,2,0.0,5.05,5.05,2.02,31,2,3.9999999999999982,3.9999999999999982,0.5,Gloves (Leather),Hands
+ui_nm_kutnohor_ruka,4206570b-ab9b-a407-e693-29b90e475d81,5,83.57143,11.399999999999999,11.399999999999999,4.5600000000000005,36,18,87.5,84.00000000000001,3.0,Gauntlets (Kuttenberg),Hands
+ui_nm_lovecke_ruka,49f22875-6f21-0d2c-fc78-11fa556779b4,2,0.0,5.15,5.15,2.06,31,4,13.0,13.0,0.5,Gloves (Hunter),Hands
+ui_nm_magdeburk_ruka,40cda4e4-8741-4f52-e43c-71fec6d81a96,5,83.57143,11.299999999999999,11.299999999999999,4.5200000000000005,35,16,85.0,84.00000000000001,3.0,Gauntlets (Magdeburg),Hands
+ui_nm_mil_ruka,4769ab73-cf6a-ce13-d43a-c549a39980b6,5,83.57143,11.100000000000001,11.100000000000001,4.44,35,11,74.0,72.0,3.0,Gauntlets (Milanese),Hands
+ui_nm_norimberk_ruka,4de13cf6-e7b7-c058-23e1-baf4717c4a8a,5,93.42857,10.700000000000001,10.700000000000001,4.28,33,5,71.5,72.0,3.0,Gauntlets (Nurembergian),Hands
+ui_nm_panske_ruka,42683028-2e61-4360-9f71-0ac198ca33a7,5,84.5714,11.7,11.7,4.680000000000001,37,17,87.5,84.00000000000001,3.0,Gauntlets (Noble),Hands
+ui_nm_panske_ruka,46f0f01a-ec0e-82af-8947-fc15bcf1df82,5,84.57143,11.7,11.7,4.680000000000001,37,17,87.5,84.00000000000001,3.0,Gauntlets (Noble),Hands
+ui_nm_podbijene_ruka,45f87e26-cda3-9d99-4591-a7f7e6968f92,5,70.0,7.800000000000001,7.800000000000001,3.12,32,2,57.99999999999999,68.0,3.0,Gauntlets (Riveted),Hands
+ui_nm_saxon_ruka,434098fa-7f58-be87-9524-dc2b5ba11ca3,5,83.57143,10.8,10.8,4.32,34,4,66.5,72.0,3.0,Gauntlets (Saxon),Hands
+ui_nm_skladane_ruka,449e796c-59b4-7ceb-1f61-4162b0caf4aa,5,91.42857,10.600000000000001,10.600000000000001,4.24,32,3,61.0,69.0,3.0,Gauntlets (Composite),Hands
+ui_nm_turnaj_ruka,41ad6890-dc2e-96d5-2ead-ba01ecf69799,5,88.57142999999999,11.5,11.5,4.6000000000000005,36,19,87.5,50.0,3.0,Gauntlets (Leipa),Hands

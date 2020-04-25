@@ -1,0 +1,29 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_boots_001,00000000-0000-0000-0000-00000000001b,9,36.85714,1.0,1.0,1.0,25,0,49.0,63.0,2.0,Footwraps and Soles,Feet
+ui_nm_boots_001_dark,45f0293a-b0b9-cd56-6864-ade54db775b8,9,24.0,1.0,1.0,1.0,25,0,40.0,44.0,2.0,Footwraps and Soles (Dark),Feet
+ui_nm_boots_002,00000000-0000-0000-0000-00000000001c,9,42.85714,1.0,1.0,1.0,25,2,56.49999999999999,59.0,2.0,Old Boots,Feet
+ui_nm_boots_003,45c7c691-4279-7556-10c3-deb101b1cc8b,9,42.57143,1.0,1.0,1.0,45,8,38.5,32.99999999999999,2.0,Slippers,Feet
+ui_nm_boots_004,48ebbf6a-ab57-f5ee-6fed-c77c63c31391,9,25.714290000000002,1.0,1.0,1.0,45,4,35.5,38.0,2.0,Working Boots,Feet
+ui_nm_boots_005,47eea19c-bb27-891b-e2e4-47e76c601d94,9,42.85714,3.0,3.0,1.0,50,18,83.5,69.0,2.0,Riding Boots (Decorated),Feet
+ui_nm_boots_006,4740da1a-d317-4248-0e00-9df6cd843ba5,9,32.0,1.0,1.0,1.0,40,10,78.49999999999999,68.0,2.0,Slippers (Burgher),Feet
+ui_nm_boots_007,4a444ba6-19ca-c4d4-114b-b922f88148b3,9,48.85714,1.0,1.0,1.0,35,17,88.5,80.0,2.0,Slippers (Fashionable),Feet
+ui_nm_boots_008,4fa7416d-486e-905d-30fa-79c11069ad8d,9,17.14286,3.0,3.0,1.0,50,5,34.5,34.0,4.0,Boots,Feet
+ui_nm_boots_009,4d6b0d7f-0660-cb9a-af17-3cfc6908e187,9,11.71429,3.0,3.0,1.0,60,5,32.5,25.0,4.0,Boots (Hunting),Feet
+ui_nm_boots_010,4838434b-91d7-20b6-da95-33227d5fc6b4,9,7.428572,3.0,3.0,1.0,55,10,23.5,26.0,4.0,Boots (Riding),Feet
+ui_nm_boots_010_color_var_A,4dd025d4-1f9e-b029-da07-28d3b60c898a,9,7.428572,3.0,3.0,1.0,55,10,25.0,30.0,4.0,Boots (Brown Riding),Feet
+ui_nm_boots_010_color_var_B,4d50a641-bc57-e341-ac1d-c741f51d6d9c,9,7.428572,3.0,3.0,1.0,55,10,21.999999999999996,21.999999999999996,4.0,Boots (Dark Riding),Feet
+ui_nm_boots_011,42a467aa-a1d6-fe8d-31e2-a3fcda5a1f98,9,11.71429,3.0,3.0,1.0,60,9,30.0,25.0,3.0,Boots (Noble),Feet
+ui_nm_boots_012,4fe77e7d-10eb-f7d5-ad13-1bdc697969a3,9,23.142860000000002,1.0,1.0,1.0,95,11,26.0,15.999999999999998,2.0,Boots (Pilgrim),Feet
+ui_nm_boots_012_bonus,485e549c-73c9-6caa-2d62-f03de0c20e91,9,18.85714,1.0,1.0,1.0,96,8,32.5,21.000000000000004,3.0,Boots (Warhorse),Feet
+ui_nm_boots_013,4cee3ad0-5249-8bc6-de75-a00f4e4b0d8e,9,0.0,1.0,1.0,1.0,45,12,15.000000000000002,17.0,2.0,Boots (Silent),Feet
+ui_nm_boots_013_c2,4a0742c5-ec0d-b5d5-dadc-b5e9776e22bb,9,0.0,1.0,1.0,1.0,45,12,12.0,14.000000000000002,2.0,Boots (Dark Quiet),Feet
+ui_nm_boots_014,40692480-f24c-54fa-c938-50ccf45918b9,9,41.71429,4.0,4.0,1.0,70,20,54.0,44.0,2.0,Boots (Noble),Feet
+ui_nm_boots_014_c2,43241eed-522c-0369-97e9-ae414829a9ba,9,28.857139999999998,4.0,4.0,1.0,70,19,39.0,19.0,2.0,Boots (Dark Noble),Feet
+ui_nm_cuman_boots,407f6f52-d70e-7e3b-056d-cda8069aab86,9,40.285720000000005,4.0,4.0,1.0,60,3,54.50000000000001,48.0,3.0,Boots (Cuman),Feet
+ui_nm_cuman_boots,43479cae-7ed8-097f-01f5-8234d5d38f85,9,40.285720000000005,4.0,4.0,1.0,60,3,56.00000000000001,48.0,3.0,Boots (Cuman),Feet
+ui_nm_cuman_boots,4e594114-e45f-24c4-73b8-be718de35eb3,9,40.285720000000005,4.0,4.0,1.0,60,3,56.00000000000001,60.0,3.0,Boots (Cuman),Feet
+ui_nm_footwraps,c6053348-3bfd-43c5-a716-2aad4143ba35,9,19.3,1.0,1.0,1.0,45,0,50.0,0.0,2.0,Footwraps with Leather Sole,Feet
+ui_nm_leather_boots_HI_001,4a0dd944-824b-e3ed-620a-2d51d6732ba9,9,28.000000000000004,3.0,3.0,3.0,75,12,9.999999999999998,9.999999999999998,4.0,Boots (Leather),Feet
+ui_nm_pickpocket_reward_boots,4f4b2cdc-1690-4e32-bba8-00eff2f14f0c,9,6.0,1.0,1.0,1.0,0,16,34.5,26.0,2.0,Slippers,Feet
+ui_nm_pvl_boots_leather,42a8fd44-fca0-79b6-e17e-461d966100a1,9,50.0,1.0,1.0,1.0,50,10,0.0,50.0,4.8,Boots (High),Feet
+ui_nm_test_boots,c9e42db7-4f90-4b4f-89f1-b3a81e7e2108,9,0.0,20.0,20.0,20.0,45,2,0.0,0.0,2.0,Boots (Servant),Feet

@@ -1,0 +1,39 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_bavorsky_haube,42960eae-d460-e350-5a80-e1689724269d,4,98.57143,11.44,14.299999999999999,8.58,57,14,55.00000000000001,61.0,17.0,Hauberk (Decorated Bavarian),Body II
+ui_nm_bavorsky_haube,4f210bf5-0eab-7d8f-1c3b-fbb4615a1dae,4,100.0,11.44,14.299999999999999,8.58,57,14,65.0,69.0,17.0,Hauberk (Decorated Bavarian),Body II
+ui_nm_ca_shirt_003_bonus,40a2b1d3-f475-a8f3-667a-075486518b8f,4,100.0,11.44,14.299999999999999,8.58,57,12,67.5,69.0,17.0,Hauberk (Warhorse),Body II
+ui_nm_charlatan_tunic,49bf5eba-9762-38cb-162d-98248b894298,1,46.57143,1.0,1.0,1.0,50,14,57.49999999999999,55.00000000000001,3.0,Tunic (Charlatan),Body II
+ui_nm_charlatan_tunic,4ae7732e-f2a7-b419-4619-e08d9f6de2bb,1,46.57143,1.0,1.0,1.0,50,14,57.49999999999999,55.00000000000001,3.0,Tunic (Charlatan),Body II
+ui_nm_executioner_coat_001,4ea4d59c-20e0-fd17-3366-d4bb16f68385,1,28.285709999999998,1.0,1.0,1.0,60,11,59.0,59.0,3.0,Cotehardie (Green),Body II
+ui_nm_executioner_coat_001_var_B,475aeca0-ddcb-ca9e-069d-e33b01b6edb8,1,2.571429,1.0,1.0,1.0,60,9,37.0,39.0,3.0,Cotehardie (Brown Noble),Body II
+ui_nm_executioner_coat_001_var_C,4eabe21e-e15e-34f8-f6a9-86059ba313a8,1,11.14286,1.0,1.0,1.0,60,7,43.0,45.0,3.0,Cotehardie (Red),Body II
+ui_nm_executioner_coat_002,468bca8d-888c-8705-3828-75a80686c192,1,31.42857,1.0,1.0,1.0,50,13,66.0,66.0,3.0,Caftan (Decorated),Body II
+ui_nm_hauberk,413806e7-f3b7-c6cf-2309-e47ce3c97fa2,4,100.0,1.0,1.0,1.0,45,4,100.0,100.0,16.4,Hauberk,Body II
+ui_nm_hauberk,48600f3b-cd53-400e-b950-eb39ad085c8f,4,98.5714,10.4,13.0,7.800000000000001,50,3,55.00000000000001,61.0,19.0,Hauberk,Body II
+ui_nm_hauberk,4a15b1e2-c083-7bad-6fdc-8b2548241c80,4,98.57143,10.4,13.0,7.800000000000001,50,7,55.00000000000001,61.0,19.0,Hauberk,Body II
+ui_nm_hauberk,4fec3673-04fe-45ae-b200-600704ecea70,4,100.0,1.0,1.0,1.0,45,4,100.0,100.0,16.4,Hauberk,Body II
+ui_nm_jacket_003,46857626-d7c9-985d-4acc-a6ad9a79afa2,1,28.285709999999998,1.0,1.0,1.0,30,14,64.0,63.0,2.0,Vest (Red),Body II
+ui_nm_jacket_003_color_var_A,486dd691-8359-fa6b-65bb-3d90424232bf,7,27.142860000000002,1.0,1.0,1.0,30,14,65.5,65.0,1.0,Vest (Decorated Red),Body II
+ui_nm_jacket_003_color_var_B,49702364-128c-d061-ce8e-26df44b823a3,7,10.0,1.0,1.0,1.0,30,13,52.0,49.0,1.0,Vest (Decorated Orange),Body II
+ui_nm_jacket_v004,412e44fb-0e4c-0e80-b763-0b6493b13fa0,1,28.285709999999998,1.0,1.0,1.0,30,12,61.5,63.0,3.0,Jacket (Red),Body II
+ui_nm_jacket_v004_color_var_B,4af7b975-1042-f94c-9eb8-4a6adc4e19a4,1,19.714290000000002,1.0,1.0,1.0,30,12,55.50000000000001,55.00000000000001,3.0,Jacket (Green),Body II
+ui_nm_jacket_v004_color_var_C,4327d9fc-2c1b-2d1b-e60d-63a202c133b9,1,2.571429,1.0,1.0,1.0,30,11,42.0,39.0,3.0,Jacket (Grey),Body II
+ui_nm_jacket_v005,4c98b6b4-9645-27f9-8b50-4bd4b63a09b4,1,49.71429,1.0,1.0,1.0,30,16,87.5,90.0,4.0,Pourpoint (Brocade),Body II
+ui_nm_krouzkova_kosi,4ac6fa35-a801-56cb-5cc7-7c7554e61c8a,4,40.0,8.24,10.3,6.18,37,8,9.999999999999998,50.0,19.0,Chainmail,Body II
+ui_nm_krouzkova_kosi,4d8ce20d-2002-b4c5-596c-e3302a96299d,4,98.57143,8.24,10.3,6.18,37,3,55.00000000000001,61.0,16.0,Chainmail,Body II
+ui_nm_kuman_hauberk,43f19e40-1107-38aa-a226-5d6179e9b4a3,4,100.0,8.24,10.3,6.18,37,4,62.0,66.0,16.0,Hauberk (Cuman),Body II
+ui_nm_obycejny_haube,422c924d-eed3-9183-f47f-3b62e6b66ea1,4,98.57143,9.360000000000001,11.7,7.02,43,7,55.00000000000001,61.0,21.0,Hauberk (Short),Body II
+ui_nm_obycejny_haube,47af49ef-bdd7-2e07-2fc8-d53b6b4faea9,4,98.57143,9.360000000000001,11.7,7.02,43,5,55.00000000000001,61.0,21.0,Hauberk (Short),Body II
+ui_nm_pansky_hauberk,401ad7c8-4a34-0ef9-7117-9e4ce2044e9a,4,100.0,13.600000000000001,17.0,10.2,70,10,62.0,66.0,14.0,Hauberk (Short Noble),Body II
+ui_nm_pansky_hauberk_d,431a2a36-312d-d6b0-ddff-fcaddc294291,4,100.0,13.600000000000001,17.0,10.2,70,10,62.0,66.0,14.0,Hauberk (Long Noble),Body II
+ui_nm_q_smithBattle_otasArmor,88e3f8f2-e820-40e5-9fc5-82024ded0c5e,4,100.0,1.0,1.0,1.0,45,4,100.0,100.0,16.4,Hauberk (Ota),Body II
+ui_nm_q_smithBattle_viteksArmor,c9f0b623-8cbe-4934-bd40-49aa8ff465a3,4,100.0,1.0,1.0,1.0,45,4,100.0,100.0,16.4,Hauberk (Vitus'),Body II
+ui_nm_skirt_001,4d879617-b6f3-24c3-1dc5-dfc50ac4d09d,1,24.0,1.0,1.0,1.0,40,14,67.0,72.0,2.0,Cotehardie (Yellow),Body II
+ui_nm_skirt_002,4db0679c-af60-b7df-e7af-58886f6354a6,1,11.14286,1.0,1.0,1.0,40,13,50.0,53.0,2.0,Cotehardie (Red),Body II
+ui_nm_skirt_002_b,441caaeb-3921-f600-79f5-9256210026bf,1,0.0,1.0,1.0,1.0,40,12,35.0,32.99999999999999,2.0,Cotehardie (Green),Body II
+ui_nm_skirt_002_c,41537adc-9759-2dd8-377d-5260815b3eb7,1,0.0,1.0,1.0,1.0,40,9,38.0,38.0,2.0,Cotehardie (Brown),Body II
+ui_nm_skirt_003,41c44a2b-9d1c-4c64-f07a-bba3f7288ba0,1,28.285709999999998,1.0,1.0,1.0,40,11,63.5,69.0,2.0,Cotehardie (Red),Body II
+ui_nm_tezky_hauberk,45a39144-03ee-67b2-e79c-864bedf93186,4,98.57143,12.56,15.700000000000001,9.42,63,8,55.00000000000001,61.0,16.0,Hauberk (Heavy),Body II
+ui_nm_uher_hauberk,416efb7c-8e5f-3518-89d2-5b9af35ad7b6,4,97.42857000000001,12.56,15.700000000000001,9.42,63,6,68.5,70.0,11.0,Hauberk (Hungarian),Body II
+ui_nm_uher_hauberk,4a946556-ee8b-ed84-ecf1-f848601cf486,4,100.0,12.56,15.700000000000001,9.42,63,4,62.0,66.0,11.0,Hauberk (Hungarian),Body II
+ui_nm_zes_kuman_haub,4f2d2511-7ee5-4ec4-9fe9-79b76d83378a,4,100.0,10.4,13.0,7.800000000000001,50,4,64.5,66.0,13.0,Hauberk (Reinforced Cuman),Body II

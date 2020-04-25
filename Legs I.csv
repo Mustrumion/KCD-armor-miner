@@ -1,0 +1,49 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_cuman_trousers_001_base,4249522f-a1db-7d3e-020f-237390c80ba2,7,16.0,1.0,1.0,1.0,40,4,42.0,44.0,2.0,Cuman Riding Breeches,Legs I
+ui_nm_pants_001,00000000-0000-0000-0000-00000000001d,7,35.71429,1.0,1.0,1.0,40,5,57.99999999999999,69.0,1.0,Hose (Red),Legs I
+ui_nm_pants_001,41c75f0e-a8a1-e4f0-07be-67ebce8b7bab,7,31.42857,1.0,1.0,1.0,25,4,55.00000000000001,66.0,2.0,Hose (Red),Legs I
+ui_nm_pants_001,465eafb6-c299-3eb9-908e-4fb6a65f38ad,7,35.7143,1.0,1.0,1.0,40,5,57.99999999999999,69.0,1.0,Hose (Red),Legs I
+ui_nm_pants_001,4c3ce212-fc6e-c14a-11e5-973ae0e749b8,7,27.142860000000002,1.0,1.0,1.0,40,6,57.49999999999999,71.0,1.0,Hose (Red),Legs I
+ui_nm_pants_001,4f1dfede-9abd-c403-ce22-3bc088c60b8a,7,31.42857,1.0,1.0,1.0,40,2,52.0,62.0,1.0,Hose (Red),Legs I
+ui_nm_pants_001_blue,4181c649-2642-3d6c-7eb4-6c09f74dbe8d,7,1.428571,1.0,1.0,1.0,40,8,32.5,41.0,1.0,Decorated Hose (Blue),Legs I
+ui_nm_pants_001_dirty_blue,4187ee7a-4331-8224-4853-0d071256b7ad,7,0.0,1.0,1.0,1.0,40,6,25.0,30.0,1.0,Hose (Blue),Legs I
+ui_nm_pants_001_dirty_brown,4493f515-b6d8-ebc4-8bd3-469c524b339f,7,1.428571,1.0,1.0,1.0,40,4,26.5,29.000000000000004,1.0,Hose (Brown),Legs I
+ui_nm_pants_001_dirty_green,4235868c-a29d-0e49-e7dd-20c97940d7ba,7,0.0,1.0,1.0,1.0,40,5,23.5,29.000000000000004,1.0,Hose (Green),Legs I
+ui_nm_pants_001_dirty_yellow,41bcef0c-d101-397a-0897-8367d9f8ffa6,7,35.71429,1.0,1.0,1.0,40,12,62.0,79.0,1.0,Hose (Yellow),Legs I
+ui_nm_pants_001_dirty_yellow,48b9f3f2-8cca-5a8d-a588-8b1198380d89,7,18.57143,1.0,1.0,1.0,40,7,48.5,57.00000000000001,1.0,Hose (Yellow),Legs I
+ui_nm_pants_001_miparty_02,41392bb2-9214-92e9-0e7d-e0438149eaa4,7,5.7142859999999995,1.0,1.0,1.0,40,7,33.5,34.0,1.0,Hose (Brown and Green),Legs I
+ui_nm_pants_001_miparty_03,4793c108-a30d-641a-71da-efc58a24bf9e,7,14.285709999999998,1.0,1.0,1.0,40,4,41.0,48.0,1.0,Decorated Hose (Red and White),Legs I
+ui_nm_pants_001_miparty_03,490695a0-15ef-3a8e-7c1c-facfab40148a,7,0.0,1.0,1.0,1.0,40,19,38.0,28.000000000000004,2.0,Decorated Hose (Red and White),Legs I
+ui_nm_pants_001_miparty_03_C2,486fb98b-9cbe-79dd-314a-ac379dfc96b3,7,0.0,1.0,1.0,1.0,40,19,33.5,19.0,1.0,Decorated Hose (Black),Legs I
+ui_nm_pants_001_miparty_03_noble,4314de6e-9f05-d843-18d8-2de11aa07798,7,5.7142859999999995,1.0,1.0,1.0,40,17,46.0,40.0,1.0,Decorated Hose (Light),Legs I
+ui_nm_pants_001_rattay,4321398a-0000-834f-5c6b-624ba7caaf89,7,18.57143,1.0,1.0,1.0,40,9,47.0,57.00000000000001,1.0,Hose (Yellow and Black),Legs I
+ui_nm_pants_001_sasau,441b0b1a-719b-cacc-4a6c-f2668cb96a92,7,5.7142859999999995,1.0,1.0,1.0,40,9,33.5,36.0,1.0,Hose (Blue and Green),Legs I
+ui_nm_pants_001_skalitz,4798e8f3-ebcf-a330-1b0b-af27a88897a8,7,27.142860000000002,1.0,1.0,1.0,40,8,54.50000000000001,67.0,1.0,Hose (Red and Yellow),Legs I
+ui_nm_pants_001_talmberg,496a8268-aacd-4f85-0050-b6403bc8d399,7,22.85714,1.0,1.0,1.0,40,9,48.5,56.00000000000001,1.0,Hose (Red and White),Legs I
+ui_nm_pants_002,49d8e1c5-1c6a-a388-173d-a207d94c78a1,7,10.0,1.0,1.0,1.0,50,1,32.5,37.0,1.0,Braies,Legs I
+ui_nm_pants_003,40280c67-9421-1fc8-0d54-ae5d47c978b9,7,1.428571,1.0,1.0,1.0,50,0,25.0,27.0,1.0,Fashionable Hose (Black),Legs I
+ui_nm_pants_003,4799c9b6-d3fb-c2e4-d4a3-dd034b0a87ab,7,5.7142859999999995,1.0,1.0,1.0,20,2,29.500000000000004,40.0,1.0,Fashionable Hose (Black),Legs I
+ui_nm_pants_003,47e60a8f-e458-454c-861f-bd596c9d18df,7,19.3,1.0,1.0,1.0,45,0,50.0,0.0,2.0,Fashionable Hose (Black),Legs I
+ui_nm_pants_003,4cc65a8a-3d0b-4a3b-bc3a-763027c4329c,7,0.0,1.0,1.0,1.0,50,13,26.0,26.0,1.0,Fashionable Hose (Black),Legs I
+ui_nm_pants_003,4dcb07a1-4530-9800-5e98-0bee669e5495,7,0.0,1.0,1.0,1.0,50,13,26.0,26.0,1.0,Fashionable Hose (Black),Legs I
+ui_nm_pants_003_blue,41412ccb-2199-b9bf-9c79-21c9227b94a7,7,1.428571,1.0,1.0,1.0,50,14,32.0,37.0,1.0,Fashionable Hose (Blue),Legs I
+ui_nm_pants_003_green,429628f5-b491-51fe-d644-654f6fc13fbe,7,0.0,1.0,1.0,1.0,50,12,27.500000000000004,35.0,1.0,Fashionable Hose (Green),Legs I
+ui_nm_pants_003_red,4bdfe759-8f53-2b2e-1567-cb1e6af469ad,7,1.428571,1.0,1.0,1.0,50,12,36.5,45.0,1.0,Fashionable Hose (Red),Legs I
+ui_nm_pants_004,44469251-9749-7d7c-7903-0810520959a4,7,0.0,1.0,1.0,1.0,50,6,20.5,26.0,1.0,Loose Hose,Legs I
+ui_nm_pants_005,4f07bb72-5fa2-8f1e-dd38-3cd78b4785a6,7,14.285709999999998,1.0,1.0,1.0,30,8,45.5,56.00000000000001,1.0,Tight Hose (Olive),Legs I
+ui_nm_pants_005_arrow,4585d5bc-f93a-9c76-495c-405c81027491,7,50.0,1.0,1.0,1.0,50,13,30.0,50.0,1.0,Tight Hose,Legs I
+ui_nm_pants_005_arrow,4ec7d236-6b41-409d-c960-52790b09e89f,7,50.0,1.0,1.0,1.0,50,13,30.0,50.0,1.0,Tight Hose,Legs I
+ui_nm_pants_005_blue,4fec4b5d-a1f3-2664-de46-08b3ce64299d,7,0.0,1.0,1.0,1.0,50,14,28.000000000000004,26.0,1.0,Tight Hose (Blue),Legs I
+ui_nm_pants_005_dark,473110cf-b888-a84b-7c65-e5b1beab47ac,7,0.0,1.0,1.0,1.0,50,12,9.499999999999996,9.000000000000002,1.0,Tight Hose (Black),Legs I
+ui_nm_pants_005_greener,4efb55de-6380-31fd-0e64-928f5486db90,7,18.57143,1.0,1.0,1.0,50,14,54.50000000000001,57.00000000000001,1.0,Tight Hose (Green),Legs I
+ui_nm_pants_006_color_var_A,4d253305-bc59-a0b0-1d6f-ff202e1aaf89,7,0.0,1.0,1.0,1.0,50,14,32.0,28.000000000000004,1.0,Noble Hose (Blue),Legs I
+ui_nm_pants_006_color_var_B,4897be0e-7054-cc15-f8a5-bc05bde0b6bd,7,0.0,1.0,1.0,1.0,50,12,30.5,24.0,1.0,Noble Hose (Brown),Legs I
+ui_nm_pants_006_color_var_B_straps,4903be20-7d0c-ca13-5a9b-4ab2fd5a10bd,7,0.0,1.0,1.0,1.0,50,17,31.0,19.0,1.0,Noble Hose (Green),Legs I
+ui_nm_pants_006_color_var_C,434525c9-f3b4-c1e5-9ab0-f1002b13a68d,7,31.42857,1.0,1.0,1.0,50,17,71.5,70.0,1.0,Noble Hose (Yellow),Legs I
+ui_nm_pants_006_color_var_D,4cf10c00-5150-b4c2-7c56-ee25a5cd6b82,7,22.85714,1.0,1.0,1.0,50,18,57.49999999999999,56.00000000000001,1.0,Noble Hose (Red and Blue),Legs I
+ui_nm_pants_006_color_var_E,495fc236-eb42-596a-09a6-1c58eb51a384,7,14.285709999999998,1.0,1.0,1.0,50,16,56.00000000000001,60.0,1.0,Noble Hose (Red),Legs I
+ui_nm_pants_006_color_var_E,4b67ffb3-2b21-81bd-768b-57f9cecffcaa,7,18.57143,1.0,1.0,1.0,50,15,57.49999999999999,59.0,1.0,Noble Hose (Red),Legs I
+ui_nm_pants_007,460fef47-6ee2-1f6e-3e86-8c88da1a0c95,7,0.0,1.0,1.0,1.0,50,3,22.499999999999996,20.0,1.0,Patched Hose,Legs I
+ui_nm_pants_007,4a30758f-c3f2-cf3c-84d0-4ba26c4d849c,7,0.0,1.0,1.0,1.0,50,3,25.0,28.000000000000004,1.0,Patched Hose,Legs I
+ui_nm_pants_007_color_var_C,4ebeeea1-87a2-cee7-1e24-9d003c1b0989,7,5.7142859999999995,1.0,1.0,1.0,50,5,28.000000000000004,28.000000000000004,1.0,Patched Hose (Dark),Legs I
+ui_nm_test_pants,5450027a-1499-4b4c-ab96-6370976fc2da,7,0.0,1.0,1.0,1.0,45,2,0.0,0.0,4.0,Hose (Servant),Legs I

@@ -1,0 +1,25 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_aus_plat,4516652a-7e40-d46d-cdd7-62ea97c3bb83,5,100.0,21.0,21.0,8.4,74,20,97.0,92.0,6.0,Pauldrons - Plate (Augsburg),Arms
+ui_nm_brig_col,4038ccc9-976c-efd3-014c-0cc80a6695b5,5,37.28572,11.0,11.0,4.4,51,10,48.0,44.0,9.0,Pauldrons - Brigandine (Dyed),Arms
+ui_nm_brig_dark,4d0691f6-632e-f5fd-0b5e-349509655698,5,24.42857,11.0,11.0,4.4,51,10,32.99999999999999,23.0,9.0,Pauldrons - Brigandine (Black),Arms
+ui_nm_brig_ramena,45e0883f-b164-edce-8f8a-4df43039759d,5,85.14286,15.0,15.0,6.0,63,16,79.5,80.0,4.0,Pauldrons - Brigandine,Arms
+ui_nm_brig_ramena,49692af5-b44e-f166-b6cf-27bf9874bcac,5,87.14285000000001,15.0,15.0,6.0,63,16,79.5,80.0,4.0,Pauldrons - Brigandine,Arms
+ui_nm_hagen_ruce,44d0c3fa-67f0-9c6f-8c87-b0fc7d8b87a6,5,100.0,23.5,23.5,10.0,85,19,76.0,73.0,6.0,Pauldrons - Plate (Zoul),Arms
+ui_nm_jedno_pla,4b82dda9-7cfe-4c26-01c7-c1322b7fc8b4,5,73.71429,18.0,18.0,7.199999999999999,66,12,48.0,49.0,7.0,Pauldrons - Plate,Arms
+ui_nm_kuman_natep,4d29d49a-e6d1-d0a0-47b7-3fac105c23b5,2,53.285709999999995,11.0,11.0,4.4,51,4,54.50000000000001,52.0,3.0,Vambraces (Cuman),Arms
+ui_nm_lamela_ramen,44059610-696d-7039-c0ee-c69a92217392,5,49.85714,13.0,13.0,5.2,57,7,46.0,46.0,8.0,Pauldrons - Lamellar,Arms
+ui_nm_mag_plat,42ed6b9c-19c5-0b8c-5feb-bfe0d7001997,5,100.0,23.0,23.0,9.200000000000001,80,18,76.0,73.0,5.0,Pauldrons - Plate (Magdeburg),Arms
+ui_nm_mil_plat,422917fc-435a-f436-3245-a356367f8881,5,100.0,20.0,20.0,8.0,71,19,74.0,76.0,6.0,Pauldrons - Plate (Milanese),Arms
+ui_nm_misen_plat,47a86203-78c8-463a-6ce6-4b22754786ba,5,95.14286,22.0,22.0,8.8,77,18,86.0,86.0,5.0,Pauldrons - Plate (Meissen),Arms
+ui_nm_mysky,491e4460-878a-20aa-3d69-5a9d88d75795,5,80.57142999999999,4.0,4.0,1.6,43,4,59.0,66.0,2.0,Plate Couters,Arms
+ui_nm_mysky_uvaz,40af7f97-143c-95a5-5e0b-01efbfac29b6,5,52.57143,6.75,6.75,2.7,46,9,39.0,37.0,2.0,Plate Couters (Reinforced),Arms
+ui_nm_natepniky,4573af03-8382-d87c-93aa-5dbb6fc79698,5,64.0,10.0,10.0,4.0,49,8,59.0,52.0,3.0,Vambraces,Arms
+ui_nm_norim_plat,4af53552-ba45-84fc-7dea-aabc594a55a0,5,83.28571,17.0,17.0,6.800000000000001,69,14,64.0,55.00000000000001,6.0,Pauldrons - Plate (Nurembergian),Arms
+ui_nm_pa_arm_015_bonus,44f5058a-a445-887b-d443-32fe726b528c,5,86.57143,12.0,12.0,4.8,54,19,75.5,68.0,8.0,Pauldrons - Plate (Warhorse),Arms
+ui_nm_podbi_natep,42f8d0ed-63d9-a104-cf0a-de415f6aa8b3,3,74.57143,13.0,13.0,5.2,57,12,65.0,57.99999999999999,8.0,Vambraces (Riveted),Arms
+ui_nm_podbi_ramena,4a9c8bc3-759d-f9a4-87f8-77cd31481e9b,5,86.57143,14.0,14.0,5.6000000000000005,60,15,66.0,62.0,8.0,Pauldrons - Plate (Riveted),Arms
+ui_nm_podbi_ramena,4e969bae-648a-194c-5d9d-3e52a0225597,5,89.14286,14.0,14.0,5.6000000000000005,60,13,76.5,76.0,8.0,Pauldrons - Plate (Riveted),Arms
+ui_nm_pol_plat,4f24ba2e-3b5d-9e11-a55f-1861ef8b1098,5,82.28571,15.0,15.0,6.0,63,13,58.5,63.0,7.0,Pauldrons - Plate (Polish),Arms
+ui_nm_sas_plat,44ee56de-46f9-0169-0d72-606c82576b97,5,100.0,16.0,16.0,6.4,66,18,76.5,78.0,5.0,Pauldrons - Plate (Saxon),Arms
+ui_nm_stara_platova,417fd467-dbb9-0016-6e6d-89ce0b507fbe,5,88.85714,12.0,12.0,4.8,54,12,68.5,75.0,8.0,Pauldrons - Plate (Old),Arms
+ui_nm_turnaj_ramena,42857dcb-baff-8a29-fd59-b779b12589b1,5,93.42857,19.5,19.5,7.800000000000001,76,15,76.5,77.0,6.0,Pauldrons - Plate (Leipa),Arms

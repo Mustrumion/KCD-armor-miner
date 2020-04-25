@@ -1,0 +1,5 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_cuman_chest_disguise,4ef8618b-a87c-f25f-dd1d-94558fceab8d,5,75.71428,5.4,5.4,2.16,42,2,79.0,59.0,7.0,Cuman Armor,Disguise
+ui_nm_cuman_chest_magic_disguise,f12b7150-9e2c-4442-9070-2cde6a32b1a1,5,75.71428,5.4,5.4,2.16,42,2,79.0,59.0,7.0,Cuman Disguise (Magic),Disguise
+ui_nm_cuman_helmet_disguise,4da8f74d-dd58-6895-e0b0-bf94a31a5b92,5,100.0,11.799999999999999,11.799999999999999,4.72,56,10,89.5,72.0,0.0,Cuman Mask,Disguise
+ui_nm_cuman_helmet_magic_disguise,51d21693-820d-423a-bac5-fae8d370dcbe,5,100.0,11.799999999999999,11.799999999999999,4.72,56,10,89.5,72.0,0.0,Cuman Mask (Magic),Disguise

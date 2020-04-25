@@ -1,0 +1,82 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_cotte_001,415525ee-9ecb-2fd0-edbd-bac703478b93,1,14.285709999999998,1.0,1.0,1.0,50,1,34.0,52.0,2.0,Tunic,Other
+ui_nm_cotte_002,419c5f08-fcdb-ac66-9d5f-97eda0f49393,7,14.285709999999998,1.0,1.0,1.0,50,1,34.0,52.0,2.0,Tunic (Beggar),Other
+ui_nm_cotte_002,470014a7-9032-6f6c-e448-b0f15bb03e81,7,14.285709999999998,1.0,1.0,1.0,50,1,34.0,52.0,2.0,Tunic (Beggar),Other
+ui_nm_cotte_002_color_B,41ba5cc8-60ba-5e3e-8e80-39270a2acf83,7,14.285709999999998,1.0,1.0,1.0,50,1,34.0,52.0,2.0,Chemise (Dark Beggar),Other
+ui_nm_cotte_003,408660f0-4742-ef99-b434-7f52cfdc2b9c,1,14.285709999999998,1.0,1.0,1.0,50,14,50.5,60.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,41d7815b-1696-571f-d688-d713b39472ba,1,14.285709999999998,1.0,1.0,1.0,50,6,41.5,52.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,42ab514e-a69d-e4b9-606d-3f46e0e6d0ad,1,14.285709999999998,1.0,1.0,1.0,50,12,50.5,60.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,4706bb3a-d722-2c20-a6e1-b4d4b6bbc18c,1,14.285709999999998,1.0,1.0,1.0,50,14,50.5,60.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,4bedf5a4-f1c6-cf51-f99f-7fbbe1e89792,1,14.285709999999998,1.0,1.0,1.0,50,8,44.5,40.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,4da95ac5-3f08-e1a5-874f-c2f3885759b2,1,14.285709999999998,1.0,1.0,1.0,50,8,44.5,40.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_003,4dce971f-2d9d-ec8f-4f3e-568411de918e,1,14.285709999999998,1.0,1.0,1.0,50,8,44.5,40.0,2.0,Dress (Burgher),Other
+ui_nm_cotte_004_c1,40aed3da-9bdd-180b-65cd-fd81947fc3a9,1,14.285709999999998,1.0,1.0,1.0,50,10,44.0,52.0,2.0,Dress,Other
+ui_nm_cotte_004_c1,45e0477d-d891-810f-6783-265ba406beb5,1,14.285709999999998,1.0,1.0,1.0,50,10,44.0,52.0,2.0,Dress,Other
+ui_nm_cotte_004_c1,4a44b8d0-a562-3f6d-6ba4-defe8183a092,1,14.285709999999998,1.0,1.0,1.0,50,8,38.0,44.0,2.0,Dress,Other
+ui_nm_cotte_004_c1_apron,4a6461df-8b4f-0ad7-d6db-551c2c45aca7,1,14.285709999999998,1.0,1.0,1.0,50,6,44.0,57.99999999999999,2.0,Dress (w/ Apron),Other
+ui_nm_cotte_004_c1_apron,4c6c8f11-7097-3ca1-3f20-4f1bbba1f68c,1,14.285709999999998,1.0,1.0,1.0,50,6,44.0,57.99999999999999,2.0,Dress (w/ Apron),Other
+ui_nm_cotte_004_c1_apron,4dac45fe-351a-3e5f-9c27-5c47ddc960ba,1,14.285709999999998,1.0,1.0,1.0,50,6,38.0,50.0,2.0,Dress (w/ Apron),Other
+ui_nm_cotte_005,41366e7f-a0e5-0f23-142a-40f1ca76aabb,1,14.285709999999998,1.0,1.0,1.0,50,12,56.49999999999999,48.0,2.0,Dress (Plain),Other
+ui_nm_cotte_005,4476da15-6311-7757-da7d-196e812d7885,1,14.285709999999998,1.0,1.0,1.0,50,11,51.5,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,45250d25-a050-fd3d-5fcd-c1e046582681,1,14.285709999999998,1.0,1.0,1.0,50,8,49.0,52.0,2.0,Dress (Plain),Other
+ui_nm_cotte_005,452d01d2-0555-36c0-4b81-2ca0e177e6b4,1,14.285700000000002,1.0,1.0,1.0,50,8,48.5,50.0,2.0,Dress (Plain),Other
+ui_nm_cotte_005,45bf8d25-f598-c977-8aa4-84f4658446ab,1,14.285709999999998,1.0,1.0,1.0,50,8,48.5,50.0,2.0,Dress (Plain),Other
+ui_nm_cotte_005,45e17389-6776-749b-838a-cd7229935fbb,1,14.285709999999998,1.0,1.0,1.0,50,11,51.5,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,45e290d0-92ed-2895-c1bb-7115baf54992,1,14.285709999999998,1.0,1.0,1.0,50,11,51.5,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,46aebc93-ea64-820e-27a7-8ff4a286fa91,1,14.285709999999998,1.0,1.0,1.0,50,17,62.0,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,4841e3ab-ec02-2953-6d7a-931f132459b5,1,14.285709999999998,1.0,1.0,1.0,50,17,62.0,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,4b8f2631-c21d-2468-6e5d-8607f13f28a8,1,14.285700000000002,1.0,1.0,1.0,50,8,48.5,50.0,2.0,Dress (Plain),Other
+ui_nm_cotte_005,4b97e0ac-2280-9ddf-7f17-336f82327f9d,1,14.285709999999998,1.0,1.0,1.0,50,17,62.0,56.00000000000001,2.0,Dress (Plain),Other
+ui_nm_cotte_005,4d1e63d8-34c4-834c-4d7d-41084a2ff980,1,14.285709999999998,1.0,1.0,1.0,50,8,49.0,52.0,2.0,Dress (Plain),Other
+ui_nm_cotte_006,453d9fa5-5eec-b6de-ab47-1775370f43b1,1,14.285709999999998,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_006,458f2f44-4e12-591a-1895-e1754df99b9b,1,14.285700000000002,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_006,49a720d9-cbe8-b771-f174-9c6f463645a6,1,14.285709999999998,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_006,4a23a37a-2f0c-c389-edab-7ccd673385b3,1,14.285709999999998,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_006,4c2bfcf7-b430-8b53-63ac-f7846cc4ad9b,1,14.285709999999998,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_006,4ca31ae2-ea83-18b9-44a3-85f31d73398c,1,14.285700000000002,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Everyday),Other
+ui_nm_cotte_007,4f3d01fd-44e0-8a52-8a6a-f1a0aadc3e8a,1,14.285700000000002,1.0,1.0,1.0,50,13,62.0,54.0,2.0,Dress (Festive),Other
+ui_nm_cotte_apron_001,46f4ab47-ff0a-a617-7b7b-b3203a7ed7a5,1,14.285709999999998,1.0,1.0,1.0,50,2,34.0,50.0,2.0,Dress (Servant),Other
+ui_nm_cotte_apron_001,4bb8c21f-fe2d-92f5-cf1f-7d2c809fb580,1,14.285709999999998,1.0,1.0,1.0,50,2,34.0,50.0,2.0,Dress (Servant),Other
+ui_nm_devil,41bdd901-3106-cae3-ac2b-479ef7642a9a,1,50.0,1.0,1.0,1.0,50,10,0.0,50.0,0.0,Devil's Suit,Other
+ui_nm_devil,41e9f784-dd0d-9329-b0e9-88d0527a2ebc,1,50.0,1.0,1.0,1.0,50,10,0.0,50.0,2.0,Devil's Suit,Other
+ui_nm_devil,4bba347a-dc31-4836-7995-3837dbbc3187,1,50.0,1.0,1.0,1.0,50,10,0.0,50.0,0.0,Devil's Suit,Other
+ui_nm_devil,4ce2cffc-ea72-98b0-1ffc-34c15d5ca7b0,1,50.0,1.0,1.0,1.0,50,10,0.0,50.0,0.0,Devil's Suit,Other
+ui_nm_female_shoes,4942b812-d8e5-98c9-912d-0af78e3264a3,9,50.0,1.0,1.0,1.0,50,10,0.0,50.0,2.0,Lady's Slippers,Other
+ui_nm_head_scarf,439e49c5-e468-57c2-d44c-9ac6066f14b6,1,14.285709999999998,1.0,1.0,1.0,10,10,34.0,52.0,1.0,Head Scarf,Other
+ui_nm_head_scarf,4bade180-e6ba-1c8a-5c43-b980a22434b3,1,14.285709999999998,1.0,1.0,1.0,10,10,34.0,52.0,1.0,Head Scarf,Other
+ui_nm_head_scarf_003,4c5db521-d5cc-8cbc-5564-541e0de1e096,1,14.285709999999998,1.0,1.0,1.0,10,10,34.0,52.0,1.0,Wimple,Other
+ui_nm_head_scarf_004,48cb2661-3c3a-99bc-b09b-3b6a79c9f5a9,1,14.285709999999998,1.0,1.0,1.0,10,10,34.0,52.0,1.0,Scarf,Other
+ui_nm_head_wreath_001,44641203-1426-4db8-90f7-8638e3e9fbba,1,14.285709999999998,1.0,1.0,1.0,10,10,34.0,52.0,1.0,Head Wreath,Other
+ui_nm_nightgown_001,4bf89a4d-b596-1c22-b2fd-ed420433f887,1,14.285709999999998,1.0,1.0,1.0,40,8,30.0,30.0,1.0,Nightgown,Other
+ui_nm_raubritter_livrej,5d3cdbd1-d972-4130-b861-aaf415678152,7,50.0,1.0,1.0,1.0,50,10,0.0,50.0,1.0,Piece of Cloth,Other
+ui_nm_scarf_over_eyes,4285fd0b-4e57-9fde-6264-f987ba080bb9,1,50.0,1.0,1.0,1.0,50,10,0.0,50.0,0.0,Piece of Cloth,Other
+ui_nm_shoes,40b5371b-6235-e4de-db1e-4528b11a25b6,9,0.0,0.0,0.0,0.0,45,1,100.0,100.0,2.0,Shoes,Other
+ui_nm_some_cloth,40298c73-9675-13b1-77ad-4ed61a6e36bb,7,50.0,1.0,1.0,2.0,45,0,0.0,0.0,0.5,Garment,Other
+ui_nm_some_cloth,4169c72a-d47d-530e-1631-ee46c0f3549e,7,50.0,0.0,0.0,0.0,45,0,0.0,0.0,4.0,Garment,Other
+ui_nm_some_cloth,41737fee-a0ce-0b64-e660-fbe660befb81,1,23.0,1.0,1.0,1.0,30,0,30.0,30.0,2.0,Garment,Other
+ui_nm_some_cloth,41c13ac4-ee03-073c-3a31-3f04a97e6abd,1,0.0,0.0,0.0,0.0,45,0,0.0,0.0,1.0,Garment,Other
+ui_nm_some_cloth,42076ef6-c07e-c43f-b9a1-56bc290a95a0,7,50.0,0.0,0.0,0.0,45,0,0.0,0.0,5.0,Garment,Other
+ui_nm_some_cloth,48a3e071-1a87-a5c1-9291-568fdea21e8c,3,100.0,20.0,18.0,18.0,45,4,100.0,0.0,6.0,Garment,Other
+ui_nm_some_cloth,4b509412-cf66-497f-7dc2-845e149d99bf,1,23.0,1.0,1.0,1.0,30,0,30.0,30.0,2.0,Garment,Other
+ui_nm_some_cloth,4fae9467-6bac-0669-cacf-0a7f1d21e889,1,23.0,1.0,1.0,1.0,30,0,30.0,30.0,2.0,Garment,Other
+ui_nm_surcotte_001,4c1ad4d4-f5f2-9b19-a470-14581138b9a9,1,14.285709999999998,1.0,1.0,1.0,40,14,54.50000000000001,57.99999999999999,2.0,Garment (Working),Other
+ui_nm_surcotte_001,4d82d77b-9543-5a5c-a3c7-e93e62ad20b5,1,14.285709999999998,1.0,1.0,1.0,40,14,54.50000000000001,57.99999999999999,2.0,Garment (Working),Other
+ui_nm_surcotte_002,46a85760-7d6d-2dae-2634-a8db495e29b9,1,14.285709999999998,1.0,1.0,1.0,30,12,50.5,54.0,2.0,Cotte (Outer),Other
+ui_nm_surcotte_002,4876ade8-6f08-20e8-8068-6298fa329988,1,14.285709999999998,1.0,1.0,1.0,30,10,43.0,52.0,2.0,Cotte (Outer),Other
+ui_nm_surcotte_002,498db788-9972-d973-caa5-6460bd3294af,1,14.285709999999998,1.0,1.0,1.0,30,8,46.0,48.0,2.0,Cotte (Outer),Other
+ui_nm_surcotte_002,4be31ff9-55ce-a5d8-0726-3e99ed54168f,1,14.285709999999998,1.0,1.0,1.0,30,12,50.5,54.0,2.0,Cotte (Outer),Other
+ui_nm_surcotte_002,4c9c5c6b-f50b-d0f4-3037-24ef73f28482,1,14.285709999999998,1.0,1.0,1.0,30,12,50.5,54.0,2.0,Cotte (Outer),Other
+ui_nm_surcotte_003,4251c432-e9a3-bafe-cf3e-60ff40794287,1,14.285709999999998,1.0,1.0,1.0,40,9,42.5,46.0,2.0,Cotte,Other
+ui_nm_surcotte_003,4a74e308-fce9-7823-3248-2b4234a286b4,1,14.285709999999998,1.0,1.0,1.0,40,8,38.0,38.0,2.0,Cotte,Other
+ui_nm_surcotte_003,4c9cb8ed-e891-2b8b-7e06-c77a32ef2ca8,1,14.285709999999998,1.0,1.0,1.0,40,8,38.0,38.0,2.0,Cotte,Other
+ui_nm_surcotte_003,4f8ccd8a-fa24-eac9-74e9-4c603ffed1ac,1,14.285709999999998,1.0,1.0,1.0,40,8,38.0,38.0,2.0,Cotte,Other
+ui_nm_surcotte_004,4076ced0-55f6-49a0-3364-e6183c03368f,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,57.99999999999999,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,42391032-a081-32d9-fd70-ac88f3873487,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,62.0,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,4548d3e7-b0d0-6749-4623-d3664a7410a7,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,62.0,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,45e3d8ac-5d54-0a39-8ec4-a321fc136991,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,57.99999999999999,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,4608470b-b576-bff5-6777-c5bb7c9a8aa6,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,62.0,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,4682ef21-53b0-55af-1017-588fe6af429e,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,57.99999999999999,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_004,4d05ba28-6f24-924d-cd10-ef3d12e447a6,1,14.285709999999998,1.0,1.0,1.0,30,15,64.5,57.99999999999999,2.0,Cotte (Decorated),Other
+ui_nm_surcotte_005,4854fc59-9c4a-c3b4-21d3-f7f21bb97a85,1,14.285709999999998,1.0,1.0,1.0,30,18,68.5,60.0,2.0,Dress (Fashionable),Other
+ui_nm_surcotte_005,4fb99cfb-d97f-3638-5f1f-cadc7cef0db6,1,14.285709999999998,1.0,1.0,1.0,30,16,66.0,60.0,2.0,Dress (Fashionable),Other
+ui_nm_underskirt_001,4dc915d1-8724-0037-047b-f331128a52a2,1,14.285709999999998,1.0,1.0,1.0,10,0,34.0,52.0,2.0,Undershirt,Other

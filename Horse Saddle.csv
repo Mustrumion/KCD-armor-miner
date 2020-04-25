@@ -1,0 +1,21 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_horse_saddle_001,41382adf-569c-4f33-90a0-36b6e874eca7,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,35.0,Plain,Horse Saddle
+ui_nm_horse_saddle_001a,475642da-17e6-c06e-b035-2b1ab31cbb8f,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,35.0,Plain (1 Bag),Horse Saddle
+ui_nm_horse_saddle_001b,45e2b460-dbd4-4bf4-3643-33c2648d60bc,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,35.0,Plain (2 Bags),Horse Saddle
+ui_nm_horse_saddle_001c,4692f1e5-e4bc-c8af-1b0b-1da823ec1db9,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,35.0,Plain (3 Bags),Horse Saddle
+ui_nm_horse_saddle_001d,42b152d3-d3f4-b390-088e-3127534281aa,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,35.0,Plain (4 Bags),Horse Saddle
+ui_nm_horse_saddle_002,43c85848-0181-06b6-a870-2b3c951e8aa8,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,30.0,Hunter,Horse Saddle
+ui_nm_horse_saddle_002a,4838fa1c-da32-9c55-b20b-d4b17b70ecac,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,30.0,Hunter (1 Bag),Horse Saddle
+ui_nm_horse_saddle_002b,4e75a619-e574-65af-b95f-6648c6db6295,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,30.0,Hunter (2 Bags),Horse Saddle
+ui_nm_horse_saddle_002c,4b1d6789-532c-97dd-48e0-51f2d0bd5db9,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,30.0,Hunter (3 Bags),Horse Saddle
+ui_nm_horse_saddle_002d,4353f1e8-e0c6-30a6-c5e8-5b76a22093a0,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,30.0,Hunter (4 Bags),Horse Saddle
+ui_nm_horse_saddle_003,42a14b38-295a-a659-3e43-c1684a5dfa88,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Fine,Horse Saddle
+ui_nm_horse_saddle_003a,4f7a8fa9-6701-df14-8a95-1166c9de20a3,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Fine (1 Bag),Horse Saddle
+ui_nm_horse_saddle_003b,41b3cfda-0a6c-c009-9482-4c78ea2f1980,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Fine (2 Bags),Horse Saddle
+ui_nm_horse_saddle_003c,406c92ad-4c17-25d7-84d7-28500800f59e,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Fine (3 Bags),Horse Saddle
+ui_nm_horse_saddle_003d,43062de7-afe1-5743-5aec-d4dcff83c1b8,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Fine (4 Bags),Horse Saddle
+ui_nm_horse_saddle_004,4866cba5-da9f-00b9-bed9-2d135eb760ba,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,25.0,Noble,Horse Saddle
+ui_nm_horse_saddle_004a,47fd7eb2-de81-37fc-0ca2-772fd3c54baa,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,20.0,Noble (1 Bag),Horse Saddle
+ui_nm_horse_saddle_004b,40c16f73-5b83-c139-96eb-c39ff5e9e7a6,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,20.0,Noble (2 Bags),Horse Saddle
+ui_nm_horse_saddle_004c,4e874d43-cf70-1d41-7510-296b8e2c839d,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,20.0,Noble (3 Bags),Horse Saddle
+ui_nm_horse_saddle_004d,41f6e46c-bca6-16da-169a-f0c8f1a6e2ab,10,0.0,0.0,0.0,0.0,0,0,60.0,60.0,20.0,Noble (4 Bags),Horse Saddle

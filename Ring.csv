@@ -1,0 +1,8 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_blankas_ring,aac0794c-8fb7-41f5-ba6a-90c313c286b2,6,0.0,0.0,0.0,0.0,35,11,55.00000000000001,50.0,0.0,Bianca,Ring
+ui_nm_drahomiras_ring,ca92311e-6413-4c6b-b47a-963211f174e1,6,5.7142859999999995,0.0,0.0,0.0,45,15,57.49999999999999,50.0,0.0,Drahomira,Ring
+ui_nm_prsten_1,69d47dce-243f-46a6-9a07-ebf793f93e0b,6,0.0,0.0,0.0,0.0,40,12,57.49999999999999,50.0,0.0,Copper,Ring
+ui_nm_prsten_2,fda33b13-125c-4d88-8a71-790c77c044be,6,0.0,0.0,0.0,0.0,45,14,57.49999999999999,50.0,0.0,Silver,Ring
+ui_nm_prsten_3,63def33d-7353-4b22-a517-ef6caff3f4dc,6,0.0,0.0,0.0,0.0,50,16,60.0,50.0,0.0,Gold,Ring
+ui_nm_prsten_4,563778d3-b014-4a20-b8f6-00ae8a3cfc40,6,0.0,0.0,0.0,0.0,55,18,60.0,50.0,0.0,Signet,Ring
+ui_nm_prsten_tereza,074b95e2-c86d-4051-a15e-e23634dd4a17,6,0.0,0.0,0.0,0.0,45,18,60.0,50.0,0.0,Magpie,Ring

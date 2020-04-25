@@ -1,0 +1,135 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+bavorsky_kabatec_barveny,43043f1f-64ad-95cb-f55c-fd7d624ba294,7,31.42857,3.795,6.8999999999999995,11.5,58,11,56.00000000000001,64.0,9.0,Gambeson (Bavarian Dyed),Body I
+bavorsky_kabatec_barveny,4b0bdc51-a989-db25-bccb-9fe09655a8b0,7,0.0,3.795,6.8999999999999995,11.5,58,13,33.5,40.0,9.0,Gambeson (Bavarian Dyed),Body I
+bavorsky_kabatec_prosty,4e225489-88e6-cbbc-a13f-15c04e4a6a83,7,14.285709999999998,3.795,6.8999999999999995,11.5,58,9,45.5,56.00000000000001,9.0,Gambeson (Bavarian),Body I
+burgundsky_kabatec_barve,402d9c88-ef9a-8eef-7475-107459ea1794,7,31.42857,3.465,6.3,10.5,53,13,57.49999999999999,64.0,10.0,Gambeson (Aachen Red),Body I
+burgundsky_kabatec_kratk,46898847-2ffc-dcda-890e-8027524c2f91,7,14.285709999999998,3.3000000000000003,6.0,10.0,50,8,45.5,56.00000000000001,10.0,Gambeson (Aachen Short),Body I
+burgundsky_kabatec_prost,4f1da9ed-8bbb-af3d-18a5-98803ad18082,7,14.285709999999998,3.3000000000000003,6.0,10.0,50,9,47.0,57.99999999999999,10.0,Gambeson (Aachen),Body I
+kutnohorska_prosivanice,434e3f99-d8f6-bf7b-3e26-43d95b91f693,7,14.285709999999998,2.64,4.8,8.0,40,8,45.5,56.00000000000001,12.0,Gambeson (Kuttenberg),Body I
+kutnohorska_prosivanice_kra,46b1fa29-8a71-e06d-c1f0-499fc1ad86b9,7,28.285709999999998,2.64,4.8,8.0,40,8,45.5,56.00000000000001,12.0,Gambeson (Kuttenberg Short),Body I
+kutnohorska_prosivanice_nab,48f4b085-973d-247d-bc22-b43c27f995b3,7,14.285709999999998,2.64,4.8,8.0,40,8,45.5,56.00000000000001,12.0,Gambeson (Kuttenberg Loose),Body I
+kutnohorska_prosivanice_pul,41866b96-12d5-290a-90a6-67cf4db3ab83,7,14.285709999999998,2.64,4.8,8.0,40,7,44.5,56.00000000000001,12.0,Gambeson (Kuttenberg Split),Body I
+kutnohorska_prosivanice_pul,4a60cbcc-9de1-055d-e37c-0856d8897482,7,14.285709999999998,2.64,4.8,8.0,40,9,47.0,56.00000000000001,12.0,Gambeson (Kuttenberg Split),Body I
+lehka_prosivanice,4377c0a6-98d4-ebdb-eb0a-f35220fb1398,7,10.0,1.6500000000000001,3.0,5.0,25,6,47.5,61.0,13.0,Gambeson (Light),Body I
+lehka_smolenice,490d57d4-3e96-3a75-96ca-54cb52c6f6ab,7,0.0,1.6500000000000001,3.0,5.0,25,7,9.499999999999996,9.000000000000002,13.0,Gambeson (Light Black),Body I
+lehky_prosivany_kabat,49bccc9b-8290-8958-5df2-471f9db9b784,7,10.0,1.815,3.3000000000000003,5.5,28,6,47.5,63.0,13.0,Gambeson (Light Short),Body I
+obycejna_prosivanice,45683673-edcb-4446-a995-3e76c0f11bae,7,45.42857,1.4849999999999999,2.7,4.5,23,7,50.0,63.0,14.0,Gambeson (Common),Body I
+obycejna_smolenice,49ed390f-1d7d-50d8-83d8-62a35b054bbd,7,0.0,1.4849999999999999,2.7,4.5,23,6,17.5,24.0,14.0,Gambeson (Common Dark),Body I
+podzbrojova_prosivanice,4e3144b5-cf35-2142-1493-a0a75820e781,7,10.0,2.31,4.2,7.0,35,7,50.0,63.0,12.0,Gambeson (Aketon),Body I
+podzbrojova_prosivanice_bar,4638d719-74df-29ba-2bea-99f46ff9e1a7,7,49.71429,2.31,4.2,7.0,35,11,57.49999999999999,68.0,12.0,Gambeson (Aketon Orange),Body I
+podzbrojova_prosivanice_kr,4bc9a38b-a310-3ca7-cfa5-6eed1259ad86,7,45.42857,2.31,4.2,7.0,35,7,48.5,59.0,12.0,Gambeson (Aketon Short),Body I
+podzbrojova_prosivanice_tm,455ce2bd-2e97-1dc1-9e14-90927f0b4b9d,7,0.0,2.31,4.2,7.0,35,7,21.500000000000004,26.0,12.0,Gambeson (Aketon Dark),Body I
+prosivana_vesta,42ed0221-fee6-22c1-a86a-70126610fa84,7,32.57143,1.32,2.4,4.0,20,9,39.5,50.0,10.0,Vest (Quilted),Body I
+prosivana_vesta_barvena,465d76a9-1d09-8b19-8b7e-20a57e7e5495,7,45.42857,1.32,2.4,4.0,20,11,53.0,63.0,10.0,Vest (Dyed Quilted),Body I
+prosivana_vesta_cernena,41afa317-7311-5ecb-8a91-94189c2dc2a9,7,15.42857,1.32,2.4,4.0,20,9,27.500000000000004,30.0,10.0,Vest (Dark Quilted),Body I
+prosivana_vesta_pulena,4db5f5f4-b653-9e9d-0f04-dc7ed9e47fb0,7,28.285709999999998,1.32,2.4,4.0,20,10,48.5,54.0,10.0,Vest (Quilted),Body I
+prosivana_vesta_pulena,4eff8951-db9e-5710-48be-5c2a9445f4be,7,32.57143,1.32,2.4,4.0,20,11,39.5,48.0,10.0,Vest (Quilted),Body I
+prosivany_kabat_barveny,406b05fb-c409-f2d0-ec82-8c9e6dd422b8,7,14.285709999999998,2.475,4.5,7.5,38,14,60.5,66.0,12.0,Gambeson (Quilted Red),Body I
+prosivany_kabat_kratky,4cc0f5a0-1531-68a2-ff52-4d9234617db7,7,14.285709999999998,2.475,4.5,7.5,38,8,48.0,52.0,12.0,Gambeson (Quilted Short),Body I
+sasky_gambeson,40ebc815-c78f-24ea-aff7-0e4beb4136b8,7,28.285709999999998,3.63,6.6000000000000005,11.0,55,8,48.0,56.00000000000001,10.0,Gambeson (Saxon),Body I
+sasky_gambeson_barveny,4025719c-da4e-cb6e-963a-c26ca4cdaa9d,7,31.42857,3.63,6.6000000000000005,11.0,55,11,61.0,62.0,10.0,Gambeson (Saxon Dyed),Body I
+sasky_gambeson_barveny,43631624-d640-42c8-be81-0a236b8ed094,7,49.71429,3.63,6.6000000000000005,11.0,55,13,63.5,62.0,10.0,Gambeson (Saxon Dyed),Body I
+sasky_gambeson_barveny,4dcb9bbd-ace9-131d-96ea-cd3964180185,7,10.0,3.63,6.6000000000000005,11.0,55,9,51.0,55.00000000000001,10.0,Gambeson (Saxon Dyed),Body I
+sasky_gambeson_cerneny,4517b07b-ca19-07bf-6011-e2cec8868185,7,0.0,3.63,6.6000000000000005,11.0,55,11,13.0,8.000000000000002,10.0,Gambeson (Saxon Dark),Body I
+sasky_gambeson_cerneny,49232ade-9c7b-55de-aaf2-418b246b9a81,7,57.199999999999996,3.63,6.6000000000000005,11.0,55,8,48.0,56.00000000000001,10.0,Gambeson (Saxon Dark),Body I
+sasky_gambeson_prosty,4897feb7-a12e-ad0e-a93c-2699798d1ba7,7,14.285709999999998,2.805,5.1,8.5,43,9,45.5,56.00000000000001,11.0,Gambeson (Saxon Light),Body I
+sasky_gambeson_puleny,430f6156-27f7-b985-9b1d-18c495273cbd,7,49.71429,3.63,6.6000000000000005,11.0,55,11,59.5,62.0,10.0,Gambeson (Saxon Dyed),Body I
+slechticka_prosivanice,401179d4-8a48-cc9a-ceac-eeaf7eb7b099,7,66.85714,3.96,7.199999999999999,12.0,60,17,86.0,82.0,9.0,Doublet (Arming),Body I
+slechticka_prosivanice,4088843b-6f0b-7016-1e16-e2455e33dcb6,7,58.28571,3.96,7.199999999999999,12.0,60,15,75.0,74.0,9.0,Doublet (Arming),Body I
+slechticka_prosivanice,44eaf818-5cb6-3868-b3c4-f51d821773a0,7,58.28571,3.96,7.199999999999999,12.0,60,15,75.0,74.0,9.0,Doublet (Arming),Body I
+slechticka_prosivanice,475a8c7a-1162-6641-efe5-b8a401e72c8f,7,40.0,3.96,7.199999999999999,12.0,60,15,75.0,72.0,9.0,Doublet (Arming),Body I
+slechticka_prosivanice,4e392593-3a86-318b-65bc-05907a52fe8a,7,62.57142999999999,3.96,7.199999999999999,12.0,60,17,83.0,81.0,9.0,Doublet (Arming),Body I
+slechticka_prosivanice,4f56d88a-c1d6-6213-36c8-b44bb552b782,7,58.28571,3.96,7.199999999999999,12.0,60,15,75.0,76.0,9.0,Doublet (Arming),Body I
+slezsky_kabatec_barveny,429b05ff-5eec-37ac-e8c0-5e5a51feb99c,7,31.42857,2.805,5.1,8.5,43,13,55.00000000000001,68.0,11.0,Gambeson (Silesian Orange),Body I
+slezsky_kabatec_cerneny,4deb11fd-f319-17b9-8d46-27f7f3d7a7a3,7,0.0,2.805,5.1,8.5,43,9,14.500000000000002,21.999999999999996,11.0,Gambeson (Silesian Grey),Body I
+slezsky_kabatec_dlouhy,499f8ebf-cdb7-e65f-33c5-a2818b40a5b4,7,14.285709999999998,2.805,5.1,8.5,43,6,41.5,50.0,11.0,Gambeson (Silesian Long),Body I
+slezsky_kabatec_prosty,4fed49d1-4203-c258-12ea-a1630dd6979b,7,28.285709999999998,2.805,5.1,8.5,43,6,49.5,56.00000000000001,11.0,Gambeson (Silesian),Body I
+tezka_prosivanice,478e9d83-c4e7-7d76-1b02-60ba80597ebb,7,14.285709999999998,3.3000000000000003,6.0,10.0,50,8,45.5,56.00000000000001,10.0,Gambeson (Heavy),Body I
+tezka_prosivanice_ctvrce,40a9b459-1058-26a6-19f8-0e6ffe01418e,7,14.285709999999998,3.3000000000000003,6.0,10.0,50,8,45.5,56.00000000000001,10.0,Gambeson (Heavy Quartered),Body I
+tezka_prosivanice_ctvrce,434d07c4-ec87-4e17-b3d7-354e1cd55f8b,7,14.285709999999998,3.3000000000000003,6.0,10.0,50,8,45.5,56.00000000000001,10.0,Gambeson (Heavy Quartered),Body I
+tezka_prosivanice_prosta,4ddf36d8-d7b7-0bfd-1e3e-ba55a5879caa,7,14.285709999999998,2.9699999999999998,5.4,9.0,45,8,45.5,56.00000000000001,11.0,Gambeson (Heavy Fitted),Body I
+uhersky_kabatec,40e66e8a-bf10-8c39-66e0-aac2eb644dba,7,14.285709999999998,3.465,6.3,10.5,53,6,45.5,56.00000000000001,10.0,Gambeson (Hungarian),Body I
+ui_nm_cuman_caftan,41895ca4-a65a-026d-d5f6-0515a9f5e29a,2,44.28571,1.6500000000000001,3.0,5.0,25,2,72.0,85.0,9.0,Cuman Caftan,Body I
+ui_nm_cuman_caftan,4428b573-53c4-bb84-4118-2de98c6ce19d,2,44.28571,1.6500000000000001,3.0,5.0,25,2,73.0,79.0,9.0,Cuman Caftan,Body I
+ui_nm_cuman_caftan,46a73915-ff3a-d13c-3373-af2934af59b3,2,44.28571,1.6500000000000001,3.0,5.0,25,3,69.0,79.0,9.0,Cuman Caftan,Body I
+ui_nm_cuman_caftan,47253d38-5e4b-4c0a-225d-09c3c826e2ae,2,44.28571,1.6500000000000001,3.0,5.0,25,2,73.0,79.0,9.0,Cuman Caftan,Body I
+ui_nm_cuman_caftan_002,468cddc5-668b-9b8c-46b5-4b53c828f4ad,2,44.28571,1.4849999999999999,2.7,4.5,23,3,70.5,79.0,10.0,Cuman Caftan (Long),Body I
+ui_nm_cuman_caftan_002,480650af-dda4-1ccc-d597-e13000639f9c,2,44.28571,1.4849999999999999,2.7,4.5,23,3,69.0,77.0,10.0,Cuman Caftan (Long),Body I
+ui_nm_cuman_caftan_002,486d7cf9-9e4e-d88e-40da-bae153f2a3b5,2,44.28571,1.4849999999999999,2.7,4.5,23,3,70.5,81.0,10.0,Cuman Caftan (Long),Body I
+ui_nm_cuman_caftan_002,4f51599b-65ce-b708-0dbb-c9184eca3ba6,2,58.28571,1.4849999999999999,2.7,4.5,23,4,75.0,76.0,10.0,Cuman Caftan (Long),Body I
+ui_nm_cuman_jacket_001,46275cef-164c-33cd-1027-f3ffa7f55fb9,2,66.8571,1.0,1.0,1.0,50,5,81.0,82.0,3.0,Cuman Cotehardie,Body I
+ui_nm_cuman_jacket_001,4a800ddc-6a8b-d6d1-4c40-000a2ce22a84,2,66.8571,1.0,1.0,1.0,50,5,81.0,82.0,3.0,Cuman Cotehardie,Body I
+ui_nm_cuman_jacket_001,4c18d9e1-1fca-0abb-57be-5ca7cdce14a1,2,66.85714,1.0,1.0,1.0,50,5,81.0,82.0,3.0,Cuman Cotehardie,Body I
+ui_nm_cuman_tunic_001,46cf7471-dccd-7e3a-18e8-e4a2e05d7ea5,7,62.57142999999999,1.0,1.0,1.0,40,3,70.0,77.0,3.0,Cuman Tunic (Beige),Body I
+ui_nm_cuman_tunic_002,42d6c8cd-d109-5bd2-0cbf-62f6dae942b9,7,50.85714,1.0,1.0,1.0,40,2,73.5,82.0,2.0,Cuman Tunic (Red),Body I
+ui_nm_cuman_tunic_002_colorVar_01,4d29cf34-5fc1-f4cd-ba8a-04f4a55ed08a,7,50.85714,1.0,1.0,1.0,40,2,72.0,84.00000000000001,3.0,Cuman Tunic (Yellow),Body I
+ui_nm_cuman_tunic_002_colorVar_02,45345fd3-43ed-b961-fde6-af37d4993aa7,7,46.57143,1.0,1.0,1.0,40,3,70.5,81.0,3.0,Cuman Tunic (Green),Body I
+ui_nm_doublet_001,4962e864-5964-aecf-7a62-6e117b96ec99,2,5.7142859999999995,1.0,1.0,1.0,40,15,39.0,50.0,0.0,Doublet (Green),Body I
+ui_nm_gambeson_07_bonus,4afcfba0-8899-4509-b099-c30f58e100b8,7,10.0,2.475,4.5,7.5,38,13,57.99999999999999,64.0,12.0,Gambeson (Warhorse),Body I
+ui_nm_hruby_gambe,47c7f6cf-2f8b-9591-3825-c805205e71ac,7,45.42857,3.135,5.699999999999999,9.5,48,8,51.5,61.0,11.0,Gambeson (Sturdy),Body I
+ui_nm_hruby_gambe_cer,406bc0f2-ba52-b3f7-8844-10bcdec68195,7,15.42857,3.135,5.699999999999999,9.5,48,7,30.5,36.0,11.0,Gambeson (Dark Sturdy),Body I
+ui_nm_jacket,453ea77f-9f5a-dfb5-1934-f18e44ab08a0,7,49.71429,1.0,1.0,1.0,30,12,62.5,68.0,4.0,Cotehardie (Dagged),Body I
+ui_nm_jacket,464ec169-a1a7-851c-c7d6-b2654dc78c92,7,49.71429,1.0,1.0,1.0,30,12,62.5,68.0,2.0,Cotehardie (Dagged),Body I
+ui_nm_jacket,4c002997-1eb6-e1fd-ef1d-56bbc23b3b92,7,49.71429,1.0,1.0,1.0,30,12,62.5,68.0,2.0,Cotehardie (Dagged),Body I
+ui_nm_jacket_001,4865e91b-5644-2109-a0b2-539793a6fca6,7,6.857143000000001,1.0,1.0,1.0,30,13,28.000000000000004,26.0,4.0,Pourpoint (Dark),Body I
+ui_nm_jacket_001,c8d7fd2d-8237-47f5-a8f6-17549ff59a4e,7,19.3,3.0,3.0,5.0,45,0,50.0,0.0,3.0,Pourpoint (Dark),Body I
+ui_nm_jacket_001_racek,4119b64e-f072-0cf2-4b8c-13e5ee901994,7,0.0,1.0,1.0,1.0,30,13,24.0,21.999999999999996,4.0,Pourpoint (Dyed),Body I
+ui_nm_jacket_001_racek,4d49d1bd-5a73-3659-5209-5a38acd4c0b6,7,49.71429,1.0,1.0,1.0,30,17,72.5,66.0,4.0,Pourpoint (Dyed),Body I
+ui_nm_jacket_001_racek,4faf7c4a-08a6-3a5e-e75c-3f06b16f939c,7,10.0,1.0,1.0,1.0,30,12,40.5,39.0,4.0,Pourpoint (Dyed),Body I
+ui_nm_jacket_001_s_paskem,4a38d9e5-7092-4d00-f5e4-47533bb94dbc,7,14.285709999999998,1.0,1.0,1.0,30,14,58.5,67.0,4.0,Pourpoint (Chemist),Body I
+ui_nm_jupon_001,4f1eeff7-c946-b7c2-6a04-a700844487b1,7,24.0,1.0,1.0,1.0,50,11,37.5,38.0,5.0,Jupon (Dark),Body I
+ui_nm_jupon_001_blue,40b49226-beb6-64df-e1c5-c34f627379be,7,10.0,1.0,1.0,1.0,50,11,42.5,49.0,5.0,Jupon (Blue),Body I
+ui_nm_jupon_001_hanus,46a58b43-9c1c-5f0e-32a7-5655b44470b9,7,49.71429,1.0,1.0,1.0,50,15,69.0,70.0,5.0,Jupon (Leipa),Body I
+ui_nm_jupon_001_red,49a80640-63aa-00ee-3699-3a4939f45283,7,49.71429,1.0,1.0,1.0,50,15,69.0,70.0,5.0,Jupon (Red),Body I
+ui_nm_kytlice_001,00000000-0000-0000-0000-000000000032,7,28.285709999999998,1.0,1.0,1.0,20,7,51.5,60.0,2.0,Tunic (Red),Body I
+ui_nm_kytlice_001_blue,41e3f765-4595-8384-6f46-f7ad2a89a6b2,7,28.285709999999998,1.0,1.0,1.0,20,7,51.5,57.99999999999999,2.0,Tunic (Long Blue),Body I
+ui_nm_kytlice_001_brown,42c725fb-00fc-c7ce-953a-b675b007d792,7,28.285709999999998,1.0,1.0,1.0,20,9,50.0,56.00000000000001,2.0,Tunic (Long Brown Quartered),Body I
+ui_nm_kytlice_001_dark,427b04b2-3827-ad9f-39ef-3f2b595b0db3,7,15.42857,1.0,1.0,1.0,20,7,26.0,26.0,2.0,Tunic (Long Black),Body I
+ui_nm_kytlice_001_green,420ee3b3-d9a6-583a-23f4-ec1399a1eea3,7,28.285709999999998,1.0,1.0,1.0,20,7,51.5,60.0,2.0,Tunic (Long Green),Body I
+ui_nm_kytlice_001_green_fejfar,458a11a5-7293-463b-4a8b-0ec665af1388,7,32.57143,1.0,1.0,1.0,20,9,50.0,59.0,2.0,Tunic (Long Dark Green),Body I
+ui_nm_kytlice_001_miparty_02,423b537e-8fa9-fc3d-10db-443d45e27cbf,7,49.71429,1.0,1.0,1.0,20,6,59.0,70.0,2.0,Tunic (Long Red and Yellow),Body I
+ui_nm_kytlice_001_miparty_03,47ab3f62-3c4b-c898-8825-f1359541fa85,7,32.57143,1.0,1.0,1.0,20,7,44.0,51.0,2.0,Tunic (Long Grey and Black),Body I
+ui_nm_kytlice_001_rattay,4cf927fe-32a6-e48f-9b6c-d7cec8d4c3a1,7,45.42857,1.0,1.0,1.0,20,11,53.0,59.0,2.0,Tunic (Long Rattay),Body I
+ui_nm_kytlice_001_red,4e758a4d-1182-56e1-190f-658c91a45986,7,28.285709999999998,1.0,1.0,1.0,20,7,51.5,60.0,2.0,Tunic (Long Red),Body I
+ui_nm_kytlice_001_skalitz,4acb877c-ffe5-43b2-7a85-75e474a929b3,7,45.42857,1.0,1.0,1.0,20,7,56.00000000000001,65.0,2.0,Tunic (Long Skalitz),Body I
+ui_nm_kytlice_001_talmberg,44c85d0b-cc09-e054-7fd0-c2183d36cda9,7,45.42857,1.0,1.0,1.0,20,7,54.50000000000001,63.0,2.0,Tunic (Long Talmberg),Body I
+ui_nm_kytlice_001_white,40c72054-15bf-abaa-ab7d-ee053314458c,7,32.57143,1.0,1.0,1.0,20,7,41.0,51.0,2.0,Tunic (Long Grey),Body I
+ui_nm_kytlice_001_yelow,4d13e73c-ef64-612c-c5cd-6497041383b3,7,49.71429,1.0,1.0,1.0,20,7,57.49999999999999,68.0,2.0,Tunic (Long Yellow),Body I
+ui_nm_obnos_gambe,4c8920a7-4745-0ec1-0c52-471aef7d8e9b,7,28.285709999999998,1.98,3.5999999999999996,6.0,30,9,49.5,57.99999999999999,13.0,Gambeson (Threadbare),Body I
+ui_nm_obnos_gambe_cer,4659edf0-7122-577c-effd-5e03afac77bf,7,11.14286,2.145,3.9000000000000004,6.5,33,9,30.0,35.0,12.0,Gambeson (Threadbare),Body I
+ui_nm_shirt,4191cf8a-14e4-2c6e-91fb-1d8f3410ef88,7,31.42857,1.0,1.0,1.0,20,4,50.5,66.0,1.0,Shirt,Body I
+ui_nm_shirt,41acce88-081c-c9a2-e16a-e956bf39a2ac,7,31.42857,1.0,1.0,1.0,30,4,50.5,62.0,1.0,Shirt,Body I
+ui_nm_shirt,4fb3fd57-78dc-f14d-2188-59ebb7fff78b,7,52.85714,1.0,1.0,1.0,20,1,67.0,79.0,1.0,Shirt,Body I
+ui_nm_shirt_001,00000000-0000-0000-0000-000000000020,2,32.57143,1.0,1.0,1.0,30,4,36.5,52.0,1.0,Shirt (Long Linen),Body I
+ui_nm_shirt_001,43f3824e-53b6-1b32-99e0-87b4eeef238f,7,49.71429,1.0,1.0,1.0,30,4,46.0,64.0,1.0,Shirt (Long Linen),Body I
+ui_nm_shirt_001,4cac53f7-2971-4b94-577a-a4b310a7c4a8,2,80.0,1.0,1.0,1.0,45,0,0.0,0.0,1.0,Shirt (Long Linen),Body I
+ui_nm_shirt_001_blue,45ee23f0-9bbf-c895-f490-906644ac08b3,7,24.0,1.0,1.0,1.0,30,8,38.0,46.0,1.0,Tunic (Long Linen Blue),Body I
+ui_nm_shirt_001_blue,4cdc5248-ce5b-7f52-529a-d7e390bb5dac,7,24.0,1.0,1.0,1.0,30,4,40.5,44.0,1.0,Tunic (Long Linen Blue),Body I
+ui_nm_shirt_001_brown,4a7dd6db-46c4-2cf0-9701-df09daf459ab,7,28.285709999999998,1.0,1.0,1.0,30,7,38.0,45.0,1.0,Tunic (Long Linen Brown),Body I
+ui_nm_shirt_001_dark,40dd1053-b0b7-2390-9f5d-b844104748b5,7,28.285709999999998,1.0,1.0,1.0,30,6,36.5,45.0,1.0,Tunic (Long Linen Grey),Body I
+ui_nm_shirt_001_green,49a8b0d2-da70-7c04-b705-0fc7de26d881,7,28.285709999999998,1.0,1.0,1.0,30,7,39.5,47.0,1.0,Tunic (Long Linen Green),Body I
+ui_nm_shirt_001_red,400b4bb0-a1d0-9bec-1b90-5b2bfcb9e9af,2,32.57143,1.0,1.0,1.0,30,5,38.5,52.0,1.0,Tunic (Long Linen Orange),Body I
+ui_nm_shirt_002,427c2cae-550e-9dc6-f050-467c3901b4aa,7,32.57143,1.0,1.0,1.0,40,4,37.0,50.0,1.0,Shirt (Linen),Body I
+ui_nm_shirt_002_brown,42afd2cb-91ec-ad09-c39d-57d198dde4a4,7,32.57143,1.0,1.0,1.0,40,4,38.5,50.0,1.0,Shirt (Linen Brown),Body I
+ui_nm_shirt_002_green,425f0fc1-64b6-f3c1-e555-844714ae1581,7,50.0,1.0,1.0,1.0,50,12,20.0,80.0,1.0,Shirt (Linen Green),Body I
+ui_nm_shirt_002_green,434f28e3-25e8-8bef-ee5b-1b331d106e99,1,45.42857,1.0,1.0,1.0,50,6,51.5,59.0,1.0,Shirt (Linen Green),Body I
+ui_nm_shirt_002_green,4b31fbf6-01d3-fb06-a1d9-f284ab277ca0,1,45.42857,1.0,1.0,1.0,30,6,51.5,59.0,1.0,Shirt (Linen Green),Body I
+ui_nm_shirt_002_green,4e6ec506-03c3-d8fd-e1ec-f6882ea314b4,7,32.57143,1.0,1.0,1.0,40,5,42.5,52.0,1.0,Shirt (Linen Green),Body I
+ui_nm_shirt_002_green,4e9a2fc1-c984-28b5-436b-fc669315948f,1,45.42857,1.0,1.0,1.0,50,6,51.5,59.0,1.0,Shirt (Linen Green),Body I
+ui_nm_shirt_002_red,40975019-110c-86fc-4f18-5b36799744bb,7,32.57143,1.0,1.0,1.0,40,4,38.5,48.0,1.0,Shirt (Linen Grey),Body I
+ui_nm_shirt_002_yellow,44bb813b-e0cc-da13-3dd3-8d31977064be,7,32.57143,1.0,1.0,1.0,40,7,44.0,53.0,1.0,Shirt (Linen Yellow),Body I
+ui_nm_shirt_003,4efaa0ac-2c9d-3a7e-6529-e2b6b57bfc82,1,45.42857,1.0,1.0,1.0,40,8,49.5,61.0,1.0,Shirt (Work),Body I
+ui_nm_shirt_003_colorVar_A,42ff5615-e472-bfb0-27e9-6ba3962eca9f,1,32.57143,1.0,1.0,1.0,50,8,46.5,55.00000000000001,1.0,Shirt (Dirty),Body I
+ui_nm_shirt_003_colorVar_B,4893589c-cdd8-887e-3e00-c1f53fab648c,1,28.285709999999998,1.0,1.0,1.0,50,8,48.0,54.0,1.0,Shirt (Old),Body I
+ui_nm_shirt_004_colorVar_A,4063f2eb-d6d6-a27e-c1d7-a0885269108c,1,32.57143,1.0,1.0,1.0,60,12,55.50000000000001,52.0,2.0,Shirt (Decorated),Body I
+ui_nm_shirt_004_colorVar_A,48f6cde5-a747-dbee-2af1-9fae418ef68b,1,32.57143,1.0,1.0,1.0,50,12,55.50000000000001,54.0,1.0,Shirt (Decorated),Body I
+ui_nm_shirt_005_color_var_C,4472ab5e-def2-e154-34a3-15349c976283,1,32.57143,1.0,1.0,1.0,50,8,47.0,55.00000000000001,1.0,Shirt (Linen Orange),Body I
+ui_nm_shirt_005_color_var_D,44dd60cb-a67f-395f-a6a2-25feeceadd99,1,32.57143,1.0,1.0,1.0,50,9,48.5,55.00000000000001,1.0,Shirt (Linen Brown),Body I
+ui_nm_shirt_006,4614fd41-bf3e-99bb-8b46-cf7ed8754cb1,7,10.0,1.0,1.0,1.0,30,10,42.0,55.00000000000001,1.0,Shirt (Fancy),Body I
+ui_nm_shirt_006,474aee53-2ae2-8127-4ea5-8dc971279596,7,10.0,1.0,1.0,1.0,30,11,45.0,55.00000000000001,1.0,Shirt (Fancy),Body I
+ui_nm_shirt_006,4785f1fa-6299-4972-9c4a-e7c848909599,7,10.0,1.0,1.0,1.0,30,10,42.0,55.00000000000001,1.0,Shirt (Fancy),Body I
+ui_nm_shirt_006,49feaeb0-1dbe-91b3-d971-958e6c4212ad,7,14.285709999999998,1.0,1.0,1.0,30,12,40.5,40.0,1.0,Shirt (Fancy),Body I
+ui_nm_shirt_006_colorVar_D,4e217a75-42fb-aeef-8052-de015d81a895,7,10.0,1.0,1.0,1.0,30,11,42.0,55.00000000000001,1.0,Shirt (Fancy),Body I
+ui_nm_shirt_1,4ed68c0c-2c7e-af75-09eb-63a4ca3fc5af,2,32.57143,1.0,1.0,1.0,20,5,38.5,52.0,1.0,Shirt (Long Linen),Body I
+ui_nm_shirt_1,4fabc3bf-94c7-c7af-f403-0c1632091ea1,2,5.7142859999999995,1.0,1.0,1.0,20,9,32.5,42.0,1.0,Shirt (Long Linen),Body I
+ui_nm_shirt_from_stepanka,ff5ab403-62fa-41d2-9afd-7d6857f999c4,7,10.0,1.0,1.0,1.0,45,18,70.0,55.00000000000001,1.0,Shirt (from Stephanie),Body I

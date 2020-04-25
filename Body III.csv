@@ -1,0 +1,51 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_brig_sas_rycht,bb1bf9c5-002b-40e4-a2fd-3fdaf639c6d1,3,34.0,13.0,13.0,5.2,48,10,41.0,43.0,9.0,Brigandine (Sasau Bailiff),Body III
+ui_nm_brigandine_001,4d887670-13cb-746d-5e27-5d234e146cb3,3,100.0,12.0,14.0,8.0,45,4,100.0,0.0,6.0,Brigandine (Short-Sleeved),Body III
+ui_nm_brigandine_009_bonus,4bef1aa8-1d05-6ecc-7797-083fa321cf80,3,76.85714,22.0,22.0,8.8,72,20,77.5,77.0,4.0,Brigandine (Warhorse),Body III
+ui_nm_burg_br_col,4cbcab6e-332c-535c-e8ed-860581ced9ad,3,60.57143000000001,19.8,19.8,7.92,66,16,65.0,65.0,7.0,Brigandine (Dyed Aachen),Body III
+ui_nm_burg_br_col,4e4f2711-dc79-d2da-1377-719d6525b6b5,3,60.57143000000001,19.8,19.8,7.92,66,16,66.5,67.0,7.0,Brigandine (Dyed Aachen),Body III
+ui_nm_burg_br_col,4eb0f0ad-008d-8b4c-4ca7-6626eb428481,3,60.57143000000001,19.8,19.8,7.92,66,16,65.0,65.0,7.0,Brigandine (Dyed Aachen),Body III
+ui_nm_burg_br_col,4f564b29-350f-df8b-dc0b-9f4bf1d75c9c,3,64.85714,19.8,19.8,7.92,66,16,71.0,74.0,7.0,Brigandine (Dyed Aachen),Body III
+ui_nm_burg_br_dark,418864f6-f9c0-ead7-dd4e-6f3aacb0288c,3,42.28571,19.8,19.8,7.92,66,15,48.0,38.0,7.0,Brigandine (Dark Aachen),Body III
+ui_nm_burg_br_dark,4c9e2e36-d746-b6ca-fe1a-5405cd465895,3,39.14286,19.8,19.8,7.92,66,15,45.5,38.0,7.0,Brigandine (Dark Aachen),Body III
+ui_nm_hagen_kyrys,4484294f-244c-3701-8ede-f7a0d10ffbb5,5,97.14286,26.0,26.0,10.5,85,18,70.5,60.0,3.5,Cuirass (Zoul),Body III
+ui_nm_jez_kyrys,498d3f6d-49a2-6f80-e1ae-d07cd1d4d08f,5,88.57142999999999,16.0,16.0,6.4,56,9,54.50000000000001,54.0,6.0,Cuirass (Rider),Body III
+ui_nm_kozena_vesta,464a913e-9b03-ae4e-3561-89a1b2d9ac98,3,54.57143,2.7,2.7,1.08,42,2,46.0,53.0,5.0,Leather Jerkin,Body III
+ui_nm_kozena_vesta,495e7020-24d1-6001-d660-33120f250ab2,3,50.285709999999995,2.7,2.7,1.08,42,2,41.5,46.0,5.0,Leather Jerkin,Body III
+ui_nm_kozena_vesta,4a22fe68-b9c5-7b04-ee81-23613de682b6,3,58.857139999999994,2.7,2.7,1.08,42,3,49.0,56.00000000000001,5.0,Leather Jerkin,Body III
+ui_nm_kozena_vesta,4e204e92-7832-af18-73ff-71885ab02788,3,50.285709999999995,2.7,2.7,1.08,42,3,41.5,44.0,5.0,Leather Jerkin,Body III
+ui_nm_kuman_brig,40031fce-5752-3279-92f6-b564d55aeb8f,2,58.57143,11.5,11.5,4.6000000000000005,44,2,56.49999999999999,56.00000000000001,10.0,Brigandine (Cuman),Body III
+ui_nm_kuman_postr,46798a36-0e40-4822-ec6e-bf682955b0b4,5,70.0,2.7,2.7,1.08,42,1,49.0,54.0,10.0,Cuman Harness,Body III
+ui_nm_kut_kyrys,47d11f76-1007-00c0-1c63-cfb2b02b0c80,5,88.57142999999999,22.0,22.0,8.8,72,12,57.00000000000001,54.0,6.0,Cuirass (Kuttenberg),Body III
+ui_nm_lap_brigan,4dc4999b-c8e2-c6ba-7115-b26e6f7470b5,3,64.28571,9.225,9.225,3.69,46,3,45.5,48.0,9.0,Bandit's Jack,Body III
+ui_nm_lap_brigan_reinf,45dbc6f8-944d-7df1-dae7-985673a4aa97,3,76.85714,13.0,13.0,5.2,48,4,52.5,52.0,9.0,Bandit's Jack (Reinforced),Body III
+ui_nm_lehka_brig,41fe34ab-46ea-6c34-da68-f1e66f46fb89,3,40.57143,14.5,14.5,5.8,52,5,49.5,51.0,9.0,Brigandine (Light),Body III
+ui_nm_lehka_brig,4439d7db-c440-9576-cd07-2d531afa7bb6,3,53.42857,14.5,14.5,5.8,52,7,64.5,74.0,9.0,Brigandine (Light),Body III
+ui_nm_lehka_brig,4e992c69-fcd2-57a1-5be3-5c2e03fcc0ba,3,44.85714,14.5,14.5,5.8,52,6,55.50000000000001,60.0,9.0,Brigandine (Light),Body III
+ui_nm_lehka_brig_dark,44d904d0-03cc-8851-8fb9-31bc292d208c,3,38.28571,14.5,14.5,5.8,52,8,44.0,46.0,9.0,Brigandine (Light Dark),Body III
+ui_nm_lehka_brig_short,40b08f5c-ffdf-4e83-de69-23a17580c3bc,3,36.28571,13.799999999999999,13.799999999999999,5.5200000000000005,50,6,46.5,44.0,9.0,Brigandine (Light Short),Body III
+ui_nm_lehka_brig_short,44342f54-fc71-f435-c68a-d6382d1e0ca2,3,40.57143,13.799999999999999,13.799999999999999,5.5200000000000005,50,5,52.5,55.00000000000001,9.0,Brigandine (Light Short),Body III
+ui_nm_lehka_lamel,45d503dc-ac4b-62c9-5994-c09288667dbf,3,53.42857,13.799999999999999,13.799999999999999,5.5200000000000005,50,1,51.0,53.0,9.0,Lamellar (Light),Body III
+ui_nm_lehka_lamel,48326991-0b0a-ef6f-8a86-ec152e61afba,3,53.4286,13.799999999999999,13.799999999999999,5.5200000000000005,50,1,51.0,53.0,9.0,Lamellar (Light),Body III
+ui_nm_mag_kyrys,47b8a5a6-0912-c070-49b9-d126e8c55bbd,5,92.85714,22.799999999999997,22.799999999999997,9.120000000000001,74,16,66.5,61.0,6.0,Cuirass (Magdeburg),Body III
+ui_nm_mil_brig,41e550e4-12df-49f0-3b05-74959224a8a5,3,72.28571000000001,24.3,24.3,9.719999999999999,78,13,67.0,57.00000000000001,5.0,Brigandine (Milanese),Body III
+ui_nm_mil_brig_col,440074cf-4d3d-5d80-2944-f49d91d642a1,3,76.57142999999999,24.3,24.3,9.719999999999999,78,14,76.0,74.0,5.0,Brigandine (Dyed Milanese),Body III
+ui_nm_mil_brig_col,4964faf4-b122-9856-e3d4-7e026ce4a0a7,3,80.85715,24.3,24.3,9.719999999999999,78,15,77.5,75.0,5.0,Brigandine (Dyed Milanese),Body III
+ui_nm_mil_brig_col,4c8f4d4b-72d3-c337-ed0c-41225e7b2382,3,76.57142999999999,24.3,24.3,9.719999999999999,78,14,73.0,66.0,5.0,Brigandine (Dyed Milanese),Body III
+ui_nm_mil_brig_col,4d3eb06c-581c-72a2-acf5-07c56cbb47b4,3,76.57142999999999,24.3,24.3,9.719999999999999,78,14,73.0,66.0,5.0,Brigandine (Dyed Milanese),Body III
+ui_nm_mil_brig_dark,4e0fbb0b-70c0-1ae3-da9c-fc74e2512193,3,68.0,24.3,24.3,9.719999999999999,78,14,62.5,50.0,5.0,Brigandine (Dark Milanese),Body III
+ui_nm_mil_kyrys,4ab8c97d-6977-4b6c-4d66-86b471549483,5,95.14286,20.5,20.5,8.2,68,16,64.5,62.0,5.0,Cuirass (Milanese),Body III
+ui_nm_mil_kyrys_kr,49cbb237-9280-ba16-cfe4-3d05bacb85a3,5,95.14286,19.0,19.0,7.6,64,15,64.5,62.0,5.0,Cuirass (Shortened Milanese),Body III
+ui_nm_milanska_briga,4222ca69-3a10-91c1-91ff-26f36122b8a2,3,80.85715,24.3,24.3,9.719999999999999,78,15,73.0,75.0,5.0,Brigandine (Bright Milanese),Body III
+ui_nm_nor_kyrys,40edf98e-f577-4192-67cd-4f1776d14ea4,5,97.14286,25.0,25.0,10.0,80,16,70.5,60.0,4.0,Cuirass (Nurembergian),Body III
+ui_nm_ota_kyrys,f86783e8-b406-44c9-b659-858f94ce2189,5,92.85714,11.5,11.5,4.6000000000000005,44,18,67.5,59.0,10.0,Cuirass (Ota),Body III
+ui_nm_pansky_kyrys,4c71ff43-0696-66e4-71d9-45f30cf05392,5,97.14286,23.5,23.5,9.399999999999999,76,14,63.0,60.0,6.0,Cuirass (Noble),Body III
+ui_nm_pla_kab_col,44f1b7f3-9098-6bc9-2965-ceb35571719c,3,66.28571,17.5,17.5,7.0,60,8,56.00000000000001,63.0,8.0,Brigandine (Dyed Plate),Body III
+ui_nm_pla_kab_col,4f8dc7eb-f1c4-f01a-dc3e-170d4288cd9d,3,74.85714999999999,17.5,17.5,7.0,60,9,66.5,77.0,8.0,Brigandine (Dyed Plate),Body III
+ui_nm_pla_kab_dark,491a93ae-fb02-b2fe-fa37-c87aa5f4c980,3,36.28571,17.5,17.5,7.0,60,7,30.5,30.0,8.0,Brigandine (Dark Plate),Body III
+ui_nm_polsky_kyrys,4bffbc58-792a-e84d-1665-797d31cbc486,5,97.14286,18.3,18.3,7.32,62,12,60.5,60.0,7.0,Cuirass (Polish),Body III
+ui_nm_prusplech,45f96751-8f3b-09dd-a06d-d75bb80e8e9c,5,92.85714,15.3,15.3,6.12,54,11,56.49999999999999,59.0,8.0,Cuirass,Body III
+ui_nm_tezk_lamel,4651e310-5ad4-cf89-7f57-9755e344ed84,5,74.0,18.3,18.3,7.32,62,4,49.0,54.0,7.0,Lamellar (Heavy),Body III
+ui_nm_turnaj_kyrys,4e92a77b-f989-fa76-4147-4ed3cf5c0faf,5,97.14286,24.6,24.6,9.84,79,18,79.0,80.0,5.0,Cuirass (Leipa),Body III
+ui_nm_vit_kyrys,4fedd7a1-ac86-40b1-ba0b-847e602df774,5,71.42857000000001,23.5,23.5,9.399999999999999,76,9,53.5,56.00000000000001,6.0,Cuirass (Vitus),Body III
+ui_nm_zdobeny_pruspl,40c05582-26f8-b1dc-f0ba-80e717a8869e,5,97.14286,21.299999999999997,21.299999999999997,8.52,70,17,73.0,62.0,6.0,Cuirass (Decorated),Body III

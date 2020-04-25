@@ -1,0 +1,143 @@
+ui_name,item_id,armor_type_id,noise,stab_def,slash_def,smash_def,max_status,charisma,conspicuousness,visibility,weight,name,category
+ui_nm_apron_001,42936ec8-4b9e-13d9-624f-6762c2f383b6,1,52.85714,2.5,3.0,1.0,60,0,58.5,79.0,2.0,Apron,Body IV
+ui_nm_apron_002,44041a83-3119-dfe4-e12f-5098935f409c,1,51.42856999999999,3.0,4.0,1.0,60,1,52.0,56.00000000000001,5.0,Apron (Blacksmith),Body IV
+ui_nm_apron_003,41a87049-190c-d5d4-40e8-5950ec296680,1,55.71429,1.0,1.0,1.0,60,1,55.00000000000001,59.0,5.0,Apron (Leather),Body IV
+ui_nm_hood_001_down,a4e01cf1-78af-4692-b6db-7c6be15cbe4c,7,19.3,1.0,2.0,2.0,45,0,50.0,0.0,0.5,Hood (Brown),Body IV
+ui_nm_hood_006_down,4bcb4913-408e-a9bc-ead2-b294248a5e90,7,40.0,1.0,1.0,1.0,30,18,72.5,64.0,2.0,Hood (Chequered Red and Blue),Body IV
+ui_nm_hood_006_down_A,46a124e4-481c-5880-d187-573c1d8a57b9,7,40.0,1.0,1.0,1.0,30,18,72.5,64.0,2.0,Hood (Chequered Black and Yellow),Body IV
+ui_nm_hood_black,49f1d199-c8e4-5e9a-7aeb-09e3999a25a7,7,14.285709999999998,1.0,1.0,1.0,40,7,41.5,36.0,2.0,Hood (Black),Body IV
+ui_nm_hood_black,4d83cddb-a7ce-dfd5-d2d0-aa7454313f8d,7,0.0,1.0,1.0,1.0,50,0,15.500000000000004,15.000000000000002,2.0,Hood (Black),Body IV
+ui_nm_hood_black,4dd34997-a8f3-9f9f-ddaa-ca0ca4b07c9f,7,0.0,1.0,1.0,1.0,40,7,11.5,6.0,2.0,Hood (Black),Body IV
+ui_nm_hood_black_white,4d4ed856-9d3a-e66f-2d2e-a08384f215b1,7,31.42857,1.0,1.0,1.0,40,4,60.0,52.0,2.0,Hood (Black and White),Body IV
+ui_nm_hood_black_white,4f71cd89-9889-1498-ca5a-b8699c4afbaa,7,35.71429,1.0,1.0,1.0,50,4,57.99999999999999,55.00000000000001,2.0,Hood (Black and White),Body IV
+ui_nm_hood_black_yellow,42f920a7-4d72-38f2-7f30-84bed084868f,7,40.0,1.0,1.0,1.0,40,7,68.5,72.0,2.0,Hood (Black and Yellow),Body IV
+ui_nm_hood_black_yellow,46f60a88-47c9-9fa9-e55b-58553a841592,7,40.0,1.0,1.0,1.0,40,7,68.5,70.0,2.0,Hood (Black and Yellow),Body IV
+ui_nm_hood_black_yellow,48146a0b-3476-c43f-63a0-5d9bf1ec1985,7,44.28571,1.0,1.0,1.0,40,1,71.5,77.0,2.0,Hood (Black and Yellow),Body IV
+ui_nm_hood_black_yellow,4901d670-706e-e710-a3ce-4b2d4a1116ad,7,40.0,1.0,1.0,1.0,50,4,73.5,70.0,2.0,Hood (Black and Yellow),Body IV
+ui_nm_hood_blc_yell_nob,4c6a0d58-e6c2-0b9c-3c89-5765c289479c,7,35.71429,1.0,1.0,1.0,40,16,67.0,59.0,2.0,Hood (Noble Black and Yellow),Body IV
+ui_nm_hood_blue,4a5b1f83-07dc-3530-3831-e110aed5ffb7,7,40.0,1.0,1.0,1.0,40,5,68.5,72.0,2.0,Hood (Blue),Body IV
+ui_nm_hood_blue_green,4d1ad34a-88e0-ee56-8456-0c02eb26c4bd,7,44.28571,1.0,1.0,1.0,40,7,68.5,71.0,2.0,Hood (Blue and Green),Body IV
+ui_nm_hood_blue_green,4fe5d61e-dc96-685e-4e5f-6c86a42fb0b1,7,40.0,1.0,1.0,1.0,50,4,68.5,72.0,2.0,Hood (Blue and Green),Body IV
+ui_nm_hood_brown,4ab733db-71b5-d2da-4c84-1d50ca7b6aa0,7,0.0,1.0,1.0,1.0,40,7,23.5,18.0,2.0,Hood (Brown),Body IV
+ui_nm_hood_brown,4f4a20ad-4510-8df6-782a-e96c4aabd7b0,7,0.0,1.0,1.0,1.0,50,0,25.0,21.999999999999996,2.0,Hood (Brown),Body IV
+ui_nm_hood_gray,497b2695-4c3a-eb06-bf4c-dd2f07d27c9c,7,1.428571,1.0,1.0,1.0,40,7,32.5,27.0,2.0,Hood (Grey),Body IV
+ui_nm_hood_gre_nob,4af8b24b-892b-02cd-beb9-4873a70c86b5,7,48.57143,1.0,1.0,1.0,40,16,77.5,74.0,2.0,Hood (Noble Green),Body IV
+ui_nm_hood_green,416e3fea-aa2d-da7e-45f1-f8d39e1cf6b2,7,40.0,1.0,1.0,1.0,40,7,65.5,68.0,2.0,Hood (Green),Body IV
+ui_nm_hood_green,45c1c6ff-b658-9ed5-5395-66d1ce58cf93,7,40.0,1.0,1.0,1.0,50,5,68.5,72.0,2.0,Hood (Green),Body IV
+ui_nm_hood_green_yellow,41033745-5681-2a81-3010-446999b7f8ad,7,52.85714,1.0,1.0,1.0,40,7,77.5,85.0,2.0,Hood (Green and Yellow),Body IV
+ui_nm_hood_natural,420f7feb-dc22-a2ec-b2a6-e1178f8c8386,7,48.57143,1.0,1.0,1.0,50,3,65.5,64.0,2.0,Hood (Linen),Body IV
+ui_nm_hood_natural,4dd7d65f-26ee-8189-d398-10ed812b6e98,7,22.85714,1.0,1.0,1.0,40,5,49.0,44.0,2.0,Hood (Linen),Body IV
+ui_nm_hood_radzig,4a7f675e-b980-1895-675b-6386127c2cb8,7,48.57143,1.0,1.0,1.0,40,7,79.5,78.0,2.0,Hood (Radzig),Body IV
+ui_nm_hood_red,00000000-0000-0000-0000-000000000023,7,44.28571,1.0,1.0,1.0,40,7,71.5,75.0,2.0,Hood (Red),Body IV
+ui_nm_hood_red,4454e377-d0d8-5bbb-e968-3e41cd366899,7,44.28571,1.0,1.0,1.0,40,7,71.5,73.0,2.0,Hood (Red),Body IV
+ui_nm_hood_red,4c32b632-b5b4-2a87-31a4-6b88c87a1d97,7,48.57143,1.0,1.0,1.0,40,5,74.5,78.0,2.0,Hood (Red),Body IV
+ui_nm_hood_red,4d10b728-a63d-c1ec-1ec6-8f8754b1e1b6,7,40.0,1.0,1.0,1.0,50,5,68.5,72.0,2.0,Hood (Red),Body IV
+ui_nm_hood_red_blue,47aedf46-0047-053a-28f0-03e51a9f0baf,7,44.28571,1.0,1.0,1.0,50,7,71.5,73.0,2.0,Hood (Red and Blue),Body IV
+ui_nm_hood_red_nob,453044fc-b31c-e8df-76a1-6f4b701758b8,7,40.0,1.0,1.0,1.0,40,16,68.5,60.0,2.0,Hood (Noble Red),Body IV
+ui_nm_hood_red_white,41cc3e13-635a-38e0-59b1-0225461b6c85,7,44.28571,1.0,1.0,1.0,40,4,71.5,75.0,2.0,Hood (Red and White),Body IV
+ui_nm_hood_red_white,432237ec-b13a-bd6c-4026-a3db68e4d89e,7,40.0,1.0,1.0,1.0,50,3,73.5,68.0,2.0,Hood (Red and White),Body IV
+ui_nm_hood_red_white,4662e866-6a82-eb4b-ed98-26213ca118a8,7,44.28571,1.0,1.0,1.0,40,7,71.5,71.0,2.0,Hood (Red and White),Body IV
+ui_nm_hood_red_white,486c1cda-e1ec-5d01-b1f1-1540d0863c9e,7,40.0,1.0,1.0,1.0,50,3,68.5,70.0,2.0,Hood (Red and White),Body IV
+ui_nm_hood_red_white,4bdc6232-47e7-e675-3730-5d218359e3ac,7,40.0,1.0,1.0,1.0,50,4,68.5,70.0,2.0,Hood (Red and White),Body IV
+ui_nm_hood_red_yellow,47f14e4b-26fc-207e-e891-c84ea2c85797,7,44.28571,1.0,1.0,1.0,40,6,71.5,79.0,2.0,Hood (Red and Yellow),Body IV
+ui_nm_hood_red_yellow,4824d5d0-8f58-c48e-5e80-34a1ce9795a6,7,52.85714,1.0,1.0,1.0,40,6,77.5,85.0,2.0,Hood (Red and Yellow),Body IV
+ui_nm_hood_red_yellow,4a3d8ffa-9a65-9e4c-ab86-c07a2898e699,7,44.28571,1.0,1.0,1.0,40,4,71.5,75.0,2.0,Hood (Red and Yellow),Body IV
+ui_nm_hood_red_yellow,4b46c1f6-e72f-f6dd-e98c-491a6702c3b3,7,44.28571,1.0,1.0,1.0,50,4,71.5,75.0,2.0,Hood (Red and Yellow),Body IV
+ui_nm_hood_yell_nob,4b92491f-060f-d00d-642c-c7b5f9807aaf,7,48.57143,1.0,1.0,1.0,40,16,76.0,72.0,2.0,Hood (Noble Yellow),Body IV
+ui_nm_hood_yellow,48399982-a538-e6c9-78c0-2cf1df976cad,7,52.85714,1.0,1.0,1.0,40,7,77.5,83.0,2.0,Hood (Yellow),Body IV
+ui_nm_hood_yellow,4f18383a-bbed-61d1-59ef-09da740aaaa0,7,44.28571,1.0,1.0,1.0,50,7,71.5,77.0,2.0,Hood (Yellow),Body IV
+ui_nm_jupon_002,4fc17391-b9ec-aedc-997e-0e0b9e094898,1,19.714290000000002,2.145,3.9000000000000004,6.5,33,13,46.5,49.0,9.0,Jupon (Jacket Red),Body IV
+ui_nm_jupon_003,4da15cb9-ab68-def0-f5c4-cb44e6c4a393,1,24.0,2.145,3.9000000000000004,6.5,33,14,51.0,56.00000000000001,9.0,Jupon (Jacket Yellow),Body IV
+ui_nm_jupon_004,4f4e5326-5e10-5a3e-bf80-e38e381c19a2,1,54.0,3.63,6.6000000000000005,11.0,55,20,71.5,69.0,7.0,Jupon (Jacket Brocade),Body IV
+ui_nm_jupon_005,4e1c3929-0e6d-e0c2-61e0-363f8e7ac289,1,45.42857,3.96,7.199999999999999,12.0,60,20,62.5,57.00000000000001,6.0,Jupon (Combat Quartered),Body IV
+ui_nm_jupon_005_c2,48dafad3-3606-b7e8-d1dc-ebc1de6b99bd,1,19.714290000000002,3.96,7.199999999999999,12.0,60,18,37.5,27.0,6.0,Jupon (Combat Dark),Body IV
+ui_nm_jupon_005_c3,42bb0602-e6bc-5edd-b91c-ebc319568bad,1,49.71429,3.96,7.199999999999999,12.0,60,19,68.5,64.0,6.0,Jupon (Combat Quartered Orange),Body IV
+ui_nm_jupon_005_c4,4d838e31-5767-b65f-eb5d-22bd4ac7eaad,1,15.42857,2.9699999999999998,5.4,9.0,45,14,24.5,24.0,8.0,Jupon (Combat Black),Body IV
+ui_nm_jupon_006,43a7cb95-710e-b5f4-35be-43f1a281a692,1,54.0,2.9699999999999998,5.4,9.0,45,16,60.0,65.0,8.0,Jupon (Combat Yellow),Body IV
+ui_nm_jupon_007,45e28f40-6882-6a01-e281-25733f761f9f,1,54.0,3.3000000000000003,6.0,10.0,50,17,62.0,63.0,7.0,Jupon (Combat Brocade),Body IV
+ui_nm_jupon_008,496651b7-ddcb-2f4e-1774-3c37fab166a7,1,54.0,1.815,3.3000000000000003,5.5,28,13,57.00000000000001,61.0,7.0,Jupon (Vest Green),Body IV
+ui_nm_jupon_008_c2,4621b468-38bc-79ed-f0ce-9219543d7fa9,1,49.71429,1.815,3.3000000000000003,5.5,28,13,56.49999999999999,56.00000000000001,7.0,Jupon (Vest Quartered),Body IV
+ui_nm_jupon_009,4373f01b-b49e-5a74-31f1-6302dcda5d8f,1,32.57143,2.31,4.2,7.0,35,17,44.5,42.0,8.0,Jupon (Combat Blue),Body IV
+ui_nm_jupon_009,4facd4ae-32a6-2a57-6ec2-cad139af6e82,1,41.14286,2.31,4.2,7.0,35,15,48.0,48.0,8.0,Jupon (Combat Blue),Body IV
+ui_nm_jupon_010,48d88e9a-72b8-b605-0fe8-be6c62e5d58c,1,49.71429,2.475,4.5,7.5,38,16,59.5,62.0,8.0,Jupon (Combat Decorated),Body IV
+ui_nm_monk_coat,40ffe5a0-95c6-1bb6-8347-25d93cfd4fbd,7,14.285709999999998,1.0,1.0,1.0,40,2,24.5,24.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,41b0dcfd-e60f-dd06-41bd-08c8d4ba7d91,7,0.0,1.0,1.0,1.0,40,2,15.999999999999998,18.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,452a54af-683d-e31d-a396-671272017a90,7,35.71429,1.0,1.0,1.0,40,2,51.5,59.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,457ca6d3-b64a-66b8-4c1e-fd606a6530af,7,0.0,1.0,1.0,1.0,40,2,13.0,15.000000000000002,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,4727da17-f74e-f71e-ec1b-c43fe01c9e96,7,5.7142859999999995,1.0,1.0,1.0,40,2,28.000000000000004,32.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,486fe517-b412-0a0a-3693-e57302d20b8b,7,5.7142859999999995,1.0,1.0,1.0,40,1,28.000000000000004,30.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,49b1cf4e-d874-d9a6-25fd-b6e4fffc7680,7,35.71429,1.0,1.0,1.0,40,3,39.5,39.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,49b4595d-298a-df15-0418-8a2633db7487,7,0.0,1.0,1.0,1.0,40,1,19.0,21.000000000000004,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,4ae1d488-675e-c68c-a5a0-0100d6f078a4,7,0.0,1.0,1.0,1.0,40,3,24.5,24.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,4f41911f-6b7a-6dc6-83fc-948c3d5d04b2,7,44.28571,1.0,1.0,1.0,40,1,55.00000000000001,71.0,2.0,Monk's Habit,Body IV
+ui_nm_monk_coat,4faaf3aa-1801-dec3-4127-cd7ab50f45be,7,1.428571,1.0,1.0,1.0,40,1,25.0,29.000000000000004,2.0,Monk's Habit,Body IV
+ui_nm_pilgrim_coat,ab62a875-799d-4472-96a1-32b6e8feeaba,7,44.28571,1.0,1.0,1.0,40,1,55.00000000000001,71.0,2.0,Penitent's Robe,Body IV
+ui_nm_rubas,4c9e14f0-23d0-2a72-247f-4c4bb1aa34ba,7,52.85714,1.0,1.0,1.0,20,0,61.0,75.0,1.0,Burial Shroud,Body IV
+ui_nm_scarf_beige,4715c753-bafa-df3e-d3a6-c3fcd5d76f8c,7,27.142860000000002,1.0,1.0,1.0,30,7,54.50000000000001,63.0,2.0,Scarf (Beige),Body IV
+ui_nm_scarf_black,4c41350f-f3dc-8910-0e46-1f937e46d893,7,0.0,1.0,1.0,1.0,30,7,21.500000000000004,21.000000000000004,2.0,Scarf (Black),Body IV
+ui_nm_scarf_blue,469b7b94-1191-fc54-f679-318a734b43be,7,40.0,1.0,1.0,1.0,30,7,57.49999999999999,62.0,2.0,Scarf (Blue),Body IV
+ui_nm_scarf_blue,48d624ae-0149-0854-2c41-82dba1f99088,7,35.71429,1.0,1.0,1.0,30,7,60.5,65.0,2.0,Scarf (Blue),Body IV
+ui_nm_scarf_gray,4fd0a36f-ea8f-4968-a225-1d3aab3447b4,7,14.285709999999998,1.0,1.0,1.0,30,7,36.5,42.0,2.0,Scarf (Grey),Body IV
+ui_nm_scarf_red,42e146c8-f2d1-1db1-c44c-7482b0f307b2,7,44.28571,1.0,1.0,1.0,30,7,62.0,73.0,2.0,Scarf (Red),Body IV
+ui_nm_scarf_yellow,4922e6f6-aeef-7ad2-24cd-348a6801ad9c,7,44.28571,1.0,1.0,1.0,30,7,66.5,79.0,2.0,Scarf (Yellow),Body IV
+ui_nm_surcoat_001,4b1ddc3c-954f-da6d-4947-81621d77119e,7,40.0,1.0,1.0,1.0,20,1,52.0,62.0,2.0,Waffenrock,Body IV
+ui_nm_surcoat_001_sasau,409cf64d-afc1-1c2c-0af2-2042f2d4f6a0,7,44.28571,1.0,1.0,1.0,20,4,59.5,69.0,2.0,Waffenrock (Sasau),Body IV
+ui_nm_surcoat_001_talmberg,4320bd8b-1039-799c-4503-ad2cbf79b4ad,7,44.28571,1.0,1.0,1.0,20,2,56.49999999999999,65.0,2.0,Waffenrock (Talmberg),Body IV
+ui_nm_surcoat_001_talmberg,44b27e34-566f-cb38-775b-e5981a74f6b8,7,44.28571,1.0,1.0,1.0,20,2,56.49999999999999,65.0,2.0,Waffenrock (Talmberg),Body IV
+ui_nm_surcoat_001_talmberg,4999ec4c-a60d-3ab0-52ca-1c0fdd761d94,7,44.28571,1.0,1.0,1.0,20,4,57.99999999999999,67.0,2.0,Waffenrock (Talmberg),Body IV
+ui_nm_surcoat_001_talmberg,4b977cd2-0067-3f05-90c0-650bfd801a96,7,44.28571,1.0,1.0,1.0,20,2,56.49999999999999,65.0,2.0,Waffenrock (Talmberg),Body IV
+ui_nm_surcoat_Rataje,477ef2b7-5b29-f7a7-c8f7-2cce627ab681,7,44.28571,1.0,1.0,1.0,20,3,59.5,69.0,2.0,Waffenrock (Rattay),Body IV
+ui_nm_surcoat_Rataje,4af8619d-aeca-2a65-8012-5392b5655bae,7,44.28571,1.0,1.0,1.0,20,3,59.5,69.0,2.0,Waffenrock (Rattay),Body IV
+ui_nm_surcoat_Rataje,4cca04da-9b0a-3f16-b904-ecdf7c74a7b9,7,44.28571,1.0,1.0,1.0,20,4,62.0,71.0,2.0,Waffenrock (Rattay),Body IV
+ui_nm_surcoat_cuman_001,44c87fc7-cbb4-0f2c-de4c-f2ac16781b98,7,18.57143,1.0,1.0,1.0,20,2,44.0,49.0,2.0,Cuman Cotte,Body IV
+ui_nm_surcoat_kobyla,49d89f9b-31a9-1b5d-a389-7e7545fa4590,7,44.28571,1.0,1.0,1.0,20,4,62.0,71.0,2.0,Waffenrock (Skalitz),Body IV
+ui_nm_waffenrock_001,46662768-5a8b-06ca-1352-d02f56fed083,7,35.71429,1.0,1.0,1.0,20,5,53.5,63.0,2.0,Waffenrock (Red),Body IV
+ui_nm_waffenrock_001,499c6d00-8d5e-66c2-206f-ba7c0f84a3bc,7,35.71429,1.0,1.0,1.0,20,5,53.5,63.0,2.0,Waffenrock (Red),Body IV
+ui_nm_waffenrock_002,4015718d-f526-1bb1-da6f-6e390b15e2b8,7,5.7142859999999995,1.0,1.0,1.0,20,3,29.500000000000004,34.0,2.0,Waffenrock (Long Dark),Body IV
+ui_nm_waffenrock_002,414d7408-c2b3-e891-a652-88d1d9c9da8a,7,27.142860000000002,1.0,1.0,1.0,20,4,43.0,47.0,2.0,Waffenrock (Long Dark),Body IV
+ui_nm_waffenrock_002_bandits_03,4d757aeb-813b-1cf5-cfde-8b07a8294ca5,7,1.428571,1.0,1.0,1.0,20,4,26.5,31.0,2.0,Waffenrock (Long Black),Body IV
+ui_nm_waffenrock_002_rattay,4afcb01c-c7a9-7310-68e3-22943098f8a3,7,40.0,1.0,1.0,1.0,20,6,55.00000000000001,62.0,2.0,Waffenrock (Long Rattay),Body IV
+ui_nm_waffenrock_002_sasau,41d8e48a-a3a1-1cb6-76b2-fc99ed139b85,7,40.0,1.0,1.0,1.0,20,6,55.00000000000001,62.0,2.0,Waffenrock (Long Sasau),Body IV
+ui_nm_waffenrock_002_skalitz,45bdd999-3050-c096-8e2a-56dec9e231a5,7,40.0,1.0,1.0,1.0,20,8,57.49999999999999,62.0,2.0,Waffenrock (Skalitz),Body IV
+ui_nm_waffenrock_002_talmberg,4a9b335a-6341-d053-fe8e-13f6f0d67297,7,40.0,1.0,1.0,1.0,20,6,59.0,66.0,2.0,Waffenrock (Long Talmberg),Body IV
+ui_nm_waffenrock_003,4047af36-3956-e89a-490a-0c38d55c97a4,7,31.42857,1.0,1.0,1.0,30,13,56.49999999999999,56.00000000000001,2.0,Waffenrock (Oleshnitz),Body IV
+ui_nm_waffenrock_003,4b986296-1ac7-24fd-2366-653b20887aa5,7,31.42857,1.0,1.0,1.0,30,13,56.49999999999999,56.00000000000001,2.0,Waffenrock (Oleshnitz),Body IV
+ui_nm_waffenrock_004,41c031a0-b9f5-4d3f-3968-7f453be343b5,7,40.0,1.0,1.0,1.0,40,5,55.00000000000001,64.0,2.0,Waffenrock (Short Red),Body IV
+ui_nm_waffenrock_004_k,4700eb58-fa98-fb17-dcd2-34d12cd4febf,7,27.142860000000002,1.0,1.0,1.0,40,4,44.5,49.0,2.0,Waffenrock (Short),Body IV
+ui_nm_waffenrock_005_k,498d77ab-14ce-90dd-b8c0-d955dc8aebbb,7,40.0,1.0,1.0,1.0,40,9,55.00000000000001,62.0,2.0,Waffenrock (Short Skalitz),Body IV
+ui_nm_waffenrock_005_pista,4c5142bd-015f-e0a8-67a2-f8193bb7fb80,7,0.0,1.0,1.0,1.0,40,4,21.999999999999996,24.0,2.0,Waffenrock (Short Dark),Body IV
+ui_nm_waffenrock_005_rattay,4526668a-3a05-6aa2-f9f9-280de886c48f,7,35.71429,1.0,1.0,1.0,40,7,52.0,59.0,2.0,Waffenrock (Short Rattay),Body IV
+ui_nm_waffenrock_005_sasau,4ffafc67-6df7-7b0e-1e33-f1a2760ff58f,7,40.0,1.0,1.0,1.0,40,7,56.49999999999999,66.0,2.0,Waffenrock (Short Sasau),Body IV
+ui_nm_waffenrock_005_skalitz,496cad42-be32-9556-9dc2-137b629c1191,7,44.28571,1.0,1.0,1.0,40,9,59.5,69.0,2.0,Waffenrock (Short Skalitz),Body IV
+ui_nm_waffenrock_005_talmberg,4ae8ddd0-e4d5-dde8-4f53-65f7ed8e12b7,7,40.0,1.0,1.0,1.0,40,7,55.00000000000001,62.0,2.0,Waffenrock (Short Talmberg),Body IV
+ui_nm_waffenrock_006,4386177a-6262-3144-72c9-0e4ec9922cb3,7,44.28571,1.0,1.0,1.0,50,8,67.0,69.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,45af7bc3-18ae-8314-9064-3fad540615bc,7,40.0,1.0,1.0,1.0,50,6,57.49999999999999,62.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,463645bd-4e9e-ed5d-e63d-d373f28b5eb2,7,40.0,1.0,1.0,1.0,50,6,56.00000000000001,62.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4a1db471-2425-34ef-bcdc-ed581f6cc794,7,0.0,1.0,1.0,1.0,50,4,21.500000000000004,21.000000000000004,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4a50a029-0970-6258-6fa1-cbdd9659b4b0,7,44.28571,1.0,1.0,1.0,50,5,57.99999999999999,65.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4b0e9c04-57c7-cd6a-b916-97984fa73098,7,35.71429,1.0,1.0,1.0,50,5,50.5,57.00000000000001,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4bedf6ce-a99e-a009-1d01-a7dd8f671f92,7,27.142860000000002,1.0,1.0,1.0,50,4,47.0,49.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4c2a7b22-8d20-ea9e-8772-849883fa89a7,7,40.0,1.0,1.0,1.0,50,8,65.0,64.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_006,4cdff9b7-febc-360c-18ba-c872a1fac28c,7,27.142860000000002,1.0,1.0,1.0,50,5,45.5,47.0,2.0,Waffenrock,Body IV
+ui_nm_waffenrock_007,42a18a5a-b2d0-07eb-14c7-ed9f665ca695,7,44.28571,1.0,1.0,1.0,50,8,63.0,65.0,2.0,Waffenrock (Decorated Red),Body IV
+ui_nm_waffenrock_007,42fc11fb-bf16-152b-c94b-6493adf24686,7,44.28571,1.0,1.0,1.0,50,9,63.0,65.0,2.0,Waffenrock (Decorated Red),Body IV
+ui_nm_waffenrock_007_rattay,4c249176-daf9-7b59-507d-90b3d6ec59a2,7,44.28571,1.0,1.0,1.0,50,10,63.0,65.0,2.0,Waffenrock (Decorated Rattay),Body IV
+ui_nm_waffenrock_007_sasau,4bcba582-c984-44d9-225f-2895c7b912b3,7,44.28571,1.0,1.0,1.0,50,8,63.0,65.0,2.0,Waffenrock (Decorated Sasau),Body IV
+ui_nm_waffenrock_007_skalitz,4a7fff4d-37d9-74a6-7d7a-8e237b32069b,7,44.28571,1.0,1.0,1.0,50,8,63.0,65.0,2.0,Waffenrock (Decorated Skalitz),Body IV
+ui_nm_waffenrock_008,4c3fc7de-b235-099b-be1f-dff67ca952b6,7,48.57143,1.0,1.0,1.0,50,10,70.0,72.0,2.0,Waffenrock (Noble),Body IV
+ui_nm_waffenrock_008_rattay,4277266f-8712-e8bf-8020-7a8b857f5795,7,52.85714,1.0,1.0,1.0,50,13,73.0,75.0,2.0,Waffenrock (Noble Rattay),Body IV
+ui_nm_waffenrock_008_sasau,4a3446fa-4f4f-1792-3f20-2977b531aea8,7,48.57143,1.0,1.0,1.0,50,13,70.0,72.0,2.0,Waffenrock (Noble Sasau),Body IV
+ui_nm_waffenrock_008_talmberg,4350ad68-f244-477a-f4af-f8e0019041ad,7,44.28571,1.0,1.0,1.0,50,13,65.5,65.0,2.0,Waffenrock (Noble Talmberg),Body IV
+ui_nm_waffenrock_011,40e7af0d-4262-1d6b-ea86-aaf55d6e76a2,7,40.0,1.0,1.0,1.0,50,10,62.5,64.0,2.0,Waffenrock (Heraldic),Body IV
+ui_nm_waffenrock_011,45f6875b-1c46-c12e-5e3a-deb4bbfaceab,7,40.0,1.0,1.0,1.0,50,10,62.5,64.0,2.0,Waffenrock (Heraldic),Body IV
+ui_nm_waffenrock_012,40c728ba-95cb-9ffc-7688-4ed73eb053ab,7,27.142860000000002,1.0,1.0,1.0,50,7,44.5,49.0,2.0,Waffenrock (Hemmed Red),Body IV
+ui_nm_waffenrock_012_k,44414acf-f175-7e9b-3af0-57f2b339aa90,7,40.0,1.0,1.0,1.0,50,7,55.00000000000001,64.0,2.0,Waffenrock (Hemmed Red),Body IV
+ui_nm_waffenrock_013,4afaf60a-6e69-808f-3ba2-1c946008a89b,7,35.71429,1.0,1.0,1.0,50,11,57.00000000000001,59.0,2.0,Waffenrock (Knight),Body IV
+ui_nm_waffenrock_013,4d30b28b-bebf-0d52-67b5-bf3387a38dbe,7,35.71429,1.0,1.0,1.0,50,12,53.0,57.00000000000001,2.0,Waffenrock (Knight),Body IV
+ui_nm_waffenrock_014,40b23098-b54b-19e3-2fd6-88dd8e63878c,7,35.71429,1.0,1.0,1.0,50,8,54.50000000000001,59.0,2.0,Waffenrock (Hemmed),Body IV
+ui_nm_waffenrock_014_rattay,4af4b15c-c5ca-a611-cb3a-368458e5dfb8,7,40.0,1.0,1.0,1.0,50,9,59.0,66.0,2.0,Waffenrock (Hemmed Rattay),Body IV
+ui_nm_waffenrock_014_sasau,482c587f-5fe2-fbe2-a72d-b85d7f0a2393,7,40.0,1.0,1.0,1.0,50,9,59.0,66.0,2.0,Waffenrock (Hemmed Sasau),Body IV
+ui_nm_waffenrock_014_talmberg,468323ad-f0f0-bad7-c80b-6ae432977d91,7,40.0,1.0,1.0,1.0,50,9,59.0,66.0,2.0,Waffenrock (Hemmed Talmberg),Body IV
+ui_nm_waffenrock_015,4a641ae4-ee0a-9311-872e-7742a2fdedbe,7,40.0,1.0,1.0,1.0,50,9,59.0,66.0,2.0,Waffenrock (Leipa),Body IV
+ui_nm_waffenrock_015,4fa636da-dda1-7b97-36fb-537cb4800e9d,7,40.0,1.0,1.0,1.0,50,9,59.0,66.0,2.0,Waffenrock (Leipa),Body IV
+ui_nm_waffenrock_bonus,4c828be7-10e9-d339-7492-cf73f5c5ba88,7,0.0,1.0,1.0,1.0,60,15,80.5,75.0,3.0,Waffenrock (Warhorse),Body IV
