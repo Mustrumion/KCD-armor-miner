@@ -1,8 +1,14 @@
+# Purpose
+
+This codes extracts current armor statistics from the game files. I made it for myself since the data on wikis is heavily outdated (or straight up incorrect).
+
+Under Creative Commons 3.0.
+
 # Usage
 
 Run miner.py with extrated game xmls in the working directory.
 
-It uses modded item names to categorize items (I made this script for my own use, so I didn't bother to find the actual connections). There will be a modification needed to work with default/other language item names.
+It uses modded item names to categorize items (I made this script for my own use, so I didn't bother to find the actual connections). There will be a modification needed for this to work with default/other language item names.
 
 The mod in question is 'A Sorted Inventory' from Nexus Mods. Highly recommended QOL mod.
 
