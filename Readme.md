@@ -33,6 +33,6 @@ It seems like the most of the armor is divided into sections, and only the outer
 
 https://docs.google.com/spreadsheets/d/1Y4kKKTVA_ZK1SWkw0IlVLF3m-TrxJighvUEM-3JZRP4/edit?usp=sharing
 
-The Score column was added by me and is completely arbitrary. It was intended to measure usefulness of items for my slightly-thievering-virgin-knight Henry (from Skalitz).
+The Score column was added by me and is completely arbitrary. It was intended to measure usefulness of items for my slightly-thievering-knight Henry.
 
 There is no weight data in that sheet since I found where it is stored after the sheet was complete. I didn't have enough energy to update it.
