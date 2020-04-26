@@ -91,10 +91,12 @@ df['name'] = df['name'].str.strip()
 
 groups = [pd.DataFrame(y) for x, y in df.groupby('category', as_index=False)]
 
-if not os.path.exists('Results'):
-    os.mkdir('Results')
+directory = 'Armor Results'
+
+if not os.path.exists(directory):
+    os.mkdir(directory)
 
 for group in groups:
-    group.to_csv(f'Results/{group["category"].iloc[0]}.csv')
-df.to_csv('Results/All.csv')
+    group.to_csv(f'{directory}/{group["category"].iloc[0]}.csv')
+df.to_csv(f'{directory}/All.csv')
 print(df)
