@@ -1,26 +1,26 @@
-ui_name,item_id,side_weight_1,side_weight_2,side_weight_3,side_weight_4,side_weight_5,side_weight_6,name
-ui_nm_matej_die,c56c54b5-b113-41ce-a250-b4eb137909bc,27%,5%,9%,14%,18%,27%,Die - Matthias
-ui_nm_the_alfons_die,ff5efcee-a92f-406a-8c6f-518556c205da,38%,8%,8%,8%,15%,23%,Die - Alfonse
-ui_nm_the_ambroz_die,045b5264-5840-43bf-90fb-d8635cd799cf,29%,21%,7%,7%,14%,21%,Die - Ambrose
-ui_nm_the_another_die,fd2e7345-5584-49d1-a0f9-e69c51d2bdf0,15%,8%,8%,8%,46%,15%,Die - Another
-ui_nm_the_commonest_die,1f84e042-ff6b-40e4-9f7f-f850ffc403f4,25%,13%,13%,13%,25%,13%,Die - Most Common
-ui_nm_the_commonest_die,65ccc0cd-de18-4305-9d64-42bb3c6d8d30,17%,17%,17%,17%,17%,17%,Die - Most Common
-ui_nm_the_devil_die,9a9d9c0d-2c94-475d-ab72-75b8ced9ac05,17%,17%,17%,17%,17%,17%,Die - Devil's Head
-ui_nm_the_devil_die_gold,29fb91de-5454-41b6-a591-c86c8d614db9,17%,17%,17%,17%,17%,17%,Die - Alfonse's Devil Head
-ui_nm_the_die_a,5ca4ea9d-a556-4051-a90e-ad645eb16b80,9%,27%,18%,18%,18%,9%,Die - Unpopular
-ui_nm_the_die_b,1bd8d5d2-f57e-48c8-8f82-df7ae1ea90d3,27%,5%,9%,14%,18%,27%,Die - Lucky
-ui_nm_the_die_c,c6060f5a-baef-4d9c-838e-96df0b70c2d0,13%,13%,13%,13%,13%,35%,Die - Lu
-ui_nm_the_die_d,f3cf6a4e-4749-495e-91c7-3e935e2b301a,13%,13%,13%,13%,13%,35%,Die - Ci
-ui_nm_the_die_e,b43b8e5b-4891-48ce-a39f-143956862c96,13%,13%,13%,13%,13%,35%,Die - Fer
-ui_nm_the_die_f,06d3757e-2882-4d75-99f9-1008a4e9d2d1,25%,33%,8%,8%,17%,8%,Die - Biased
-ui_nm_the_die_g,bd819743-3e32-474e-8333-bebe92b16e98,33%,0%,6%,6%,33%,22%,Die - Lucky
-ui_nm_the_die_h,4ede7cfe-e698-4917-a092-a01d8ac3646f,18%,23%,45%,5%,5%,5%,Die - Holy Trinity
-ui_nm_the_die_i,3844bfed-e66b-4e97-bea4-4bf84d90ae82,7%,27%,7%,27%,7%,27%,Die - Even-Sided
-ui_nm_the_die_k,4c465f33-a20e-4428-b2f5-09cfc6c4f6d7,27%,7%,27%,7%,27%,7%,Die - Odd-Sided
-ui_nm_the_die_kcd,8895b262-ddfb-4392-a784-eee616798c96,37%,11%,11%,11%,11%,21%,Die - Heavenly Kingdom
-ui_nm_the_die_l,6d4602d4-790e-44f0-816b-96d514db0b7a,11%,44%,11%,11%,11%,11%,Die - Henry
-ui_nm_the_die_m,b41171bf-9332-44ce-96fa-7e64d6e5e92a,5%,23%,23%,23%,23%,5%,Die - Misfortune
-ui_nm_the_die_o,4306e2d9-f09b-444a-b05d-79c55449ef46,25%,13%,13%,13%,19%,19%,Die - Strip
-ui_nm_the_die_p,aa0b6bc8-e7f6-4777-b931-1ae81d7ef8da,22%,11%,11%,11%,11%,33%,Die - Shrinking
-ui_nm_the_least_common_die,75a0739e-fa75-4f99-be68-e1c3ba30d57e,67%,7%,7%,7%,7%,7%,Die - Least Common
-ui_nm_the_not_common_die,dce71bd0-4397-4d00-8a01-1e734a8255a6,17%,17%,17%,17%,17%,17%,Die - Uncommon
+ui_name,item_id,side_weight_1,side_weight_2,side_weight_3,side_weight_4,side_weight_5,side_weight_6,name modded,name vanilla
+ui_nm_matej_die,c56c54b5-b113-41ce-a250-b4eb137909bc,27%,5%,9%,14%,18%,27%,Die - Matthias,Matthias' lucky dice
+ui_nm_the_alfons_die,ff5efcee-a92f-406a-8c6f-518556c205da,38%,8%,8%,8%,15%,23%,Die - Alfonse,Alfonse's die
+ui_nm_the_ambroz_die,045b5264-5840-43bf-90fb-d8635cd799cf,29%,21%,7%,7%,14%,21%,Die - Ambrose,Ambrose's dice
+ui_nm_the_another_die,fd2e7345-5584-49d1-a0f9-e69c51d2bdf0,15%,8%,8%,8%,46%,15%,Die - Another,Another die
+ui_nm_the_commonest_die,1f84e042-ff6b-40e4-9f7f-f850ffc403f4,25%,13%,13%,13%,25%,13%,Die - Most Common,The commonest die
+ui_nm_the_commonest_die,65ccc0cd-de18-4305-9d64-42bb3c6d8d30,17%,17%,17%,17%,17%,17%,Die - Most Common,The commonest die
+ui_nm_the_devil_die,9a9d9c0d-2c94-475d-ab72-75b8ced9ac05,17%,17%,17%,17%,17%,17%,Die - Devil's Head,Devil's Head
+ui_nm_the_devil_die_gold,29fb91de-5454-41b6-a591-c86c8d614db9,17%,17%,17%,17%,17%,17%,Die - Alfonse's Devil Head,Alfonse's devil die
+ui_nm_the_die_a,5ca4ea9d-a556-4051-a90e-ad645eb16b80,9%,27%,18%,18%,18%,9%,Die - Unpopular,Disfavourite die
+ui_nm_the_die_b,1bd8d5d2-f57e-48c8-8f82-df7ae1ea90d3,27%,5%,9%,14%,18%,27%,Die - Lucky,Lucky die
+ui_nm_the_die_c,c6060f5a-baef-4d9c-838e-96df0b70c2d0,13%,13%,13%,13%,13%,35%,Die - Lu,Lu die
+ui_nm_the_die_d,f3cf6a4e-4749-495e-91c7-3e935e2b301a,13%,13%,13%,13%,13%,35%,Die - Ci,Ci die
+ui_nm_the_die_e,b43b8e5b-4891-48ce-a39f-143956862c96,13%,13%,13%,13%,13%,35%,Die - Fer,Fer die
+ui_nm_the_die_f,06d3757e-2882-4d75-99f9-1008a4e9d2d1,25%,33%,8%,8%,17%,8%,Die - Biased,Biased die
+ui_nm_the_die_g,bd819743-3e32-474e-8333-bebe92b16e98,33%,0%,6%,6%,33%,22%,Die - Lucky,Lucky playing die
+ui_nm_the_die_h,4ede7cfe-e698-4917-a092-a01d8ac3646f,18%,23%,45%,5%,5%,5%,Die - Holy Trinity,Holy trinity die
+ui_nm_the_die_i,3844bfed-e66b-4e97-bea4-4bf84d90ae82,7%,27%,7%,27%,7%,27%,Die - Even-Sided,Even number die
+ui_nm_the_die_k,4c465f33-a20e-4428-b2f5-09cfc6c4f6d7,27%,7%,27%,7%,27%,7%,Die - Odd-Sided,Odd die
+ui_nm_the_die_kcd,8895b262-ddfb-4392-a784-eee616798c96,37%,11%,11%,11%,11%,21%,Die - Heavenly Kingdom,Heavenly Kingdom playing die
+ui_nm_the_die_l,6d4602d4-790e-44f0-816b-96d514db0b7a,11%,44%,11%,11%,11%,11%,Die - Henry,Henry's beta die
+ui_nm_the_die_m,b41171bf-9332-44ce-96fa-7e64d6e5e92a,5%,23%,23%,23%,23%,5%,Die - Misfortune,Die of misfortune
+ui_nm_the_die_o,4306e2d9-f09b-444a-b05d-79c55449ef46,25%,13%,13%,13%,19%,19%,Die - Strip,Strip die
+ui_nm_the_die_p,aa0b6bc8-e7f6-4777-b931-1ae81d7ef8da,22%,11%,11%,11%,11%,33%,Die - Shrinking,Shrinking playing die
+ui_nm_the_least_common_die,75a0739e-fa75-4f99-be68-e1c3ba30d57e,67%,7%,7%,7%,7%,7%,Die - Least Common,The least common die
+ui_nm_the_not_common_die,dce71bd0-4397-4d00-8a01-1e734a8255a6,17%,17%,17%,17%,17%,17%,Die - Uncommon,The uncommon die

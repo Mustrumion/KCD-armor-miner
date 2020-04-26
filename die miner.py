@@ -34,12 +34,12 @@ def get_ui_names(path: str = "player_item.xml") -> pd.DataFrame:
 
 
 def get_actual_names(path: str = "text_ui_items.xml") -> pd.DataFrame:
-    cols = ['ui_name', 'name']
+    cols = ['ui_name', 'name modded', 'name vanilla']
 
     root = et.parse(path)
     rows = root.findall('.//Row')
 
-    xml_data = [[row[0].text, row[2].text] 
+    xml_data = [[row[0].text, row[2].text, row[1].text] 
         for row in rows]
     df_xml = pd.DataFrame(xml_data, columns=cols)
     return df_xml
