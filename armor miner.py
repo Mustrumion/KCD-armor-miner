@@ -2,7 +2,7 @@ import xml.etree.ElementTree as et
 import pandas as pd
 import os
 
-def get_defense(path: str = "armor.xml") -> pd.DataFrame:
+def get_defense(path: str = os.path.join("Data", "armor.xml")) -> pd.DataFrame:
     cols = ['item_id', 'armor_type_id', 'noise', 'stab_def', 'slash_def', 'smash_def', 'max_status']
 
     root = et.parse(path)
@@ -20,7 +20,7 @@ def get_defense(path: str = "armor.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_ui_names(path: str = "player_item.xml") -> pd.DataFrame:
+def get_ui_names(path: str = os.path.join("Data", "player_item.xml")) -> pd.DataFrame:
     cols = ['item_id', 'ui_name']
 
     root = et.parse(path)
@@ -32,7 +32,7 @@ def get_ui_names(path: str = "player_item.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_actual_names(path: str = "text_ui_items.xml") -> pd.DataFrame:
+def get_actual_names(path: str = os.path.join("Data", "text_ui_items.xml")) -> pd.DataFrame:
     cols = ['ui_name', 'name']
 
     root = et.parse(path)
@@ -44,7 +44,7 @@ def get_actual_names(path: str = "text_ui_items.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_charisma(path: str = "equippable_item.xml") -> pd.DataFrame:
+def get_charisma(path: str = os.path.join("Data", "equippable_item.xml")) -> pd.DataFrame:
     cols = ['item_id', 'charisma', 'conspicuousness', 'visibility']
 
     root = et.parse(path)
@@ -59,7 +59,7 @@ def get_charisma(path: str = "equippable_item.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_weight(path: str = "pickable_item.xml") -> pd.DataFrame:
+def get_weight(path: str = os.path.join("Data", "pickable_item.xml")) -> pd.DataFrame:
     cols = ['item_id', 'weight']
 
     root = et.parse(path)

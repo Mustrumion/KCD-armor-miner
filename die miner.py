@@ -2,7 +2,7 @@ import xml.etree.ElementTree as et
 import pandas as pd
 import os
 
-def get_proba(path: str = "die.xml") -> pd.DataFrame:
+def get_proba(path: str = os.path.join("Data", "die.xml")) -> pd.DataFrame:
     cols = [f'side_weight_{i+1}' for i in range(6)]
     cols.append('item_id')
 
@@ -21,7 +21,7 @@ def get_proba(path: str = "die.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_ui_names(path: str = "player_item.xml") -> pd.DataFrame:
+def get_ui_names(path: str = os.path.join("Data", "player_item.xml")) -> pd.DataFrame:
     cols = ['item_id', 'ui_name']
 
     root = et.parse(path)
@@ -33,7 +33,7 @@ def get_ui_names(path: str = "player_item.xml") -> pd.DataFrame:
     return df_xml
 
 
-def get_actual_names(path: str = "text_ui_items.xml") -> pd.DataFrame:
+def get_actual_names(path: str = os.path.join("Data", "text_ui_items.xml")) -> pd.DataFrame:
     cols = ['ui_name', 'name modded', 'name vanilla']
 
     root = et.parse(path)
