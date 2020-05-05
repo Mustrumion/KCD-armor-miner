@@ -7,7 +7,9 @@ This repository is dedicated for storage and versioning of my mods and data mine
 # Purpose
 
 armor miner.py - extracts armor statistics from the game files 
+
 die miner.py - extracts weighted dice chance statistics 
+
 easy_reputation_mod_creator.py - creates Easy Reputation Returns mod
 
 # Usage
