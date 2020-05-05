@@ -1,8 +1,14 @@
-# Purpose
-
-This codes extracts armor statistics from the game files (armor miner.py), and dice chance statistics (die miner.py). I made it for myself since the data on wikis is heavily outdated (or straight up incorrect).
+# General info
 
 Under Creative Commons 3.0.
+
+This repository is dedicated for storage and versioning of my mods and data miners for KCD.
+
+# Purpose
+
+armor miner.py - extracts armor statistics from the game files 
+die miner.py - extracts weighted dice chance statistics 
+easy_reputation_mod_creator.py - creates Easy Reputation Returns mod
 
 # Usage
 
