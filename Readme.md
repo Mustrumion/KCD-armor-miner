@@ -22,22 +22,15 @@ The mod in question is 'A Sorted Inventory' from Nexus Mods. Highly recommended 
 
 # Data
 
-Data in the repo comes from version 1.9.5. All xmls apart from text_ui_items.xml can be found in the game files:
+Data needed for the scripts comes from game files. All xmls apart from text_ui_items.xml can be found in:
 
-<game dir>\data\Tables.pak\Libs\Tables\item (Tables.pak needs to be opened with an archive manager, I recommand 7zip)
+<game dir>\data\Tables.pak\Libs\Tables (Tables.pak needs to be opened with an archive manager, I recommand 7zip)
 
 text_ui_items.xml can be found among localization files.
 
-Script results are also uploaded to the repo in the Results directory.
+Script results are uploaded to the repo in the Results directory.
 
-# Visibility and Conspiciousness
-
-The values outputed by the script are the ones shown in the item description ingame. 
-
-They strongly correlete with the actual active values, but it seems that the game lies to you to not overwhelm you with the visibility mechanic.
-It seems like the most of the armor is divided into sections, and only the outermost (and possibly second) layer covering other armor counts towards visibility and conspiciousness. Pretty cool mechanic.
-
-# Google sheet with the data
+# Google sheets with the data
 for dice:
 https://docs.google.com/spreadsheets/d/1Ojv0jCWhfojsWmgvAMHoIuFAROpXosgv-0-KoGFFVqM/edit?usp=sharing
 
